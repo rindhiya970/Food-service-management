@@ -13,7 +13,10 @@ const Navbar = () => {
       <div className="navbar-container container">
         <div className="navbar-logo">
           <a href="/">
-            <img src="https://flowbite.com/docs/images/logo.svg" className="logo-icon" alt="GeekFoods Logo" />
+            <svg className="logo-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <circle cx="12" cy="12" r="10" fill="#3B82F6"/>
+              <path d="M10 8L16 12L10 16V8Z" fill="white"/>
+            </svg>
             <span className="logo-text">GeekFoods</span>
           </a>
         </div>
@@ -21,7 +24,6 @@ const Navbar = () => {
         <div className={`navbar-links ${isMobileMenuOpen ? 'active' : ''}`}>
           <ul>
             <li><a href="#" className="active-link">Home</a></li>
-            <li><a href="#">Quote</a></li>
             <li><a href="#">Restaurants</a></li>
             <li><a href="#">Foods</a></li>
             <li><a href="#">Contact</a></li>
