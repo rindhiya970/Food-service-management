@@ -8,7 +8,7 @@ import './App.css';
 function App() {
   return (
     <div className="app">
-      {/* Header Component */}
+      {/* Header Compot */}
       <Navbar />
       
       {/* Body Section Component */}
