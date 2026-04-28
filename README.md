@@ -7,7 +7,7 @@ A modern, responsive web application built with ReactJS that showcases a food di
 This project creates a dynamic web page using ReactJS, divided into three crucial components:
 - **Header Component (Navbar)**: Navigation and branding
 - **Body Section Component**: Hero section and testimonial cards
-- **Footer Component**: Links, social media, and copyright information
+- **Footer Component**: Links, and copyright information
 
 ## 🛠️ Technology Stack
 
