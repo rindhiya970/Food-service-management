@@ -8,7 +8,7 @@ const Hero = () => {
       <div className="hero-content container">
         <div className="hero-text">
           <h1>
-            Let us find your <br />
+            Let us find <br />
             <strong>Forever Food.</strong>
           </h1>
           <p>
