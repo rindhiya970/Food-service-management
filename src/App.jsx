@@ -1,27 +1,36 @@
 import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import ContentSection from './components/ContentSection';
-import CardSection from './components/CardSection';
 import Footer from './components/Footer';
+import Home from './pages/Home';
+import Quote from './pages/Quote';
+import Restaurants from './pages/Restaurants';
+import Foods from './pages/Foods';
+import Contact from './pages/Contact';
 import './App.css';
 
 function App() {
   return (
-    <div className="app">
-      {/* Header Component */}
-      <Navbar />
-      
-      {/* Body Section Component */}
-      <main>
-        <Hero />
-        <ContentSection />
-        <CardSection />
-      </main>
-      
-      {/* Footer Component */}
-      <Footer />
-    </div>
+    <Router>
+      <div className="app">
+        {/* Header Component */}
+        <Navbar />
+        
+        {/* Body Section Component */}
+        <main>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/quote" element={<Quote />} />
+            <Route path="/restaurants" element={<Restaurants />} />
+            <Route path="/foods" element={<Foods />} />
+            <Route path="/contact" element={<Contact />} />
+          </Routes>
+        </main>
+        
+        {/* Footer Component */}
+        <Footer />
+      </div>
+    </Router>
   );
 }
 
