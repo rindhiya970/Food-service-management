@@ -1,17 +1,18 @@
 # GeekFoods - ReactJS Web Application
 
-A modern, responsive web application built with ReactJS that showcases a food discovery platform. This project demonstrates the implementation of reusable React components following best practices.
+A modern, fully responsive web application built with ReactJS that showcases a food discovery platform. This project demonstrates the implementation of reusable React components, routing, and interactive features following best practices.
 
 ## 🚀 Project Overview
 
-This project creates a dynamic web page using ReactJS, divided into three crucial components:
-- **Header Component (Navbar)**: Navigation and branding
-- **Body Section Component**: Hero section and testimonial cards
-- **Footer Component**: Links, and copyright information
+This project creates a dynamic multi-page web application using ReactJS, divided into crucial components:
+- **Header Component (Navbar)**: Navigation and branding with active link highlighting
+- **Body Section Components**: Multiple pages with unique content and functionality
+- **Footer Component**: Links, social media, and copyright information
 
 ## 🛠️ Technology Stack
 
 - **ReactJS** - UI library for building user interfaces
+- **React Router DOM** - Client-side routing for navigation
 - **Vite** - Modern build tool and development server
 - **CSS3** - Styling with custom properties and responsive design
 - **JSX** - JavaScript XML for component structure
@@ -25,16 +26,28 @@ geek-food/
 │   └── icons.svg
 ├── src/
 │   ├── components/
-│   │   ├── Navbar.jsx          # Header component
+│   │   ├── Navbar.jsx          # Header component with navigation
 │   │   ├── Hero.jsx             # Hero section
+│   │   ├── ContentSection.jsx   # Content with image and text
 │   │   ├── CardSection.jsx      # Testimonial cards
 │   │   └── Footer.jsx           # Footer component
+│   ├── pages/
+│   │   ├── Home.jsx             # Home page
+│   │   ├── Quote.jsx            # Food quotes page
+│   │   ├── Restaurants.jsx      # Restaurant listing with search
+│   │   ├── Foods.jsx            # Food menu with images
+│   │   └── Contact.jsx          # Contact form and info
 │   ├── styles/
 │   │   ├── Navbar.css
 │   │   ├── Hero.css
+│   │   ├── ContentSection.css
 │   │   ├── CardSection.css
-│   │   └── Footer.css
-│   ├── App.jsx                  # Main app component
+│   │   ├── Footer.css
+│   │   ├── Quote.css
+│   │   ├── Restaurants.css
+│   │   ├── Foods.css
+│   │   └── Contact.css
+│   ├── App.jsx                  # Main app component with routing
 │   ├── App.css                  # App styles
 │   ├── main.jsx                 # Entry point
 │   └── index.css                # Global styles
@@ -46,24 +59,49 @@ geek-food/
 ## 🎯 Key Features
 
 ### Header Component (Navbar)
-- Responsive navigation menu
-- Logo and branding
+- Responsive navigation menu with React Router integration
+- Blue play button logo
+- Active link highlighting
 - Mobile-friendly hamburger menu
 - Sticky positioning for better UX
-- Call-to-action button
+- "Get started" call-to-action button
 
-### Body Section Component
+### Home Page
 - **Hero Section**: Eye-catching hero with background image and CTAs
-- **Card Section**: Grid layout displaying testimonials with:
-  - User quotes
-  - Avatar images
-  - User information (name and role)
-  - Responsive grid layout
+- **Content Section**: Two-column layout with image and text
+- **Testimonial Cards**: Grid layout displaying user testimonials
+
+### Quote Page
+- Collection of 12+ inspirational food quotes
+- Clean card-based layout
+- Author attribution
+- Hover effects on cards
+
+### Restaurants Page
+- **Search Functionality**: Real-time search across restaurant names, addresses, and cuisines
+- **Rating Filter**: Filter restaurants by minimum star rating
+- **Restaurant Cards**: Display name, rating, address, cuisine type
+- **Pagination**: Navigate through multiple pages of results
+- **Responsive Grid**: Adapts to different screen sizes
+
+### Foods Page
+- **Visual Gallery**: 18+ food items with high-quality images
+- **Category Filtering**: Filter by cuisine type (Italian, American, Japanese, Thai, Mexican, etc.)
+- **Search Functionality**: Search across food names and descriptions
+- **Food Cards**: Image, name, price, description, and order button
+- **Hover Effects**: Interactive animations on cards
+
+### Contact Page
+- **Contact Form**: Name, email, phone, subject, and message fields
+- **Contact Information Cards**: Address, phone, email, working hours
+- **Google Maps Integration**: Embedded map showing location
+- **Form Validation**: Required field validation
+- **Responsive Layout**: Two-column layout on desktop, stacked on mobile
 
 ### Footer Component
-- Company logo and description
+- Teal logo with "logoipsum"
 - Navigation links
-- Social media icons (Twitter, Instagram, Facebook)
+- 5 social media icons (Facebook, Instagram, Twitter, GitHub, Dribbble)
 - Copyright information with dynamic year
 - Hover effects and transitions
 
@@ -105,37 +143,17 @@ npm run dev
 - **Responsive Design**: Mobile-first approach with breakpoints
 - **CSS Custom Properties**: Consistent theming with CSS variables
 - **Modern UI**: Clean, professional design with smooth transitions
+- **Interactive Elements**: Hover effects, active states, and animations
 - **Accessibility**: Semantic HTML and ARIA labels
 - **Performance**: Optimized images and efficient rendering
 
-## 🌐 Browser Support
+## 🌐 Pages & Routes
 
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## 📝 Component Details
-
-### Navbar Component
-- Sticky header that stays at the top while scrolling
-- Responsive mobile menu with toggle functionality
-- Active link highlighting
-
-### Hero Component
-- Full-height hero section with background image
-- Overlay for better text readability
-- Call-to-action buttons
-
-### CardSection Component
-- Dynamic testimonial cards rendered from data array
-- Responsive grid layout (auto-fit)
-- Card hover effects
-
-### Footer Component
-- Organized footer with multiple sections
-- Social media integration
-- Dynamic copyright year
+- `/` - Home page with Hero, Content Section, and Testimonials
+- `/quote` - Food quotes page
+- `/restaurants` - Restaurant listing with search and filters
+- `/foods` - Food menu with images and categories
+- `/contact` - Contact form and information
 
 ## 🔧 Customization
 
@@ -156,6 +174,9 @@ Edit CSS custom properties in `src/index.css`:
 - Update testimonials in `src/components/CardSection.jsx`
 - Modify hero text in `src/components/Hero.jsx`
 - Change navigation links in `src/components/Navbar.jsx`
+- Add/edit restaurants in `src/pages/Restaurants.jsx`
+- Add/edit food items in `src/pages/Foods.jsx`
+- Update quotes in `src/pages/Quote.jsx`
 
 ## 📦 Deployment
 
@@ -164,17 +185,48 @@ Build the project for production:
 npm run build
 ```
 
-The optimized files will be in the `dist` folder, ready for deployment to any static hosting service.
+The optimized files will be in the `dist` folder, ready for deployment to any static hosting service like:
+- Vercel
+- Netlify
+- GitHub Pages
+- AWS S3
+- Firebase Hosting
 
 ## 👨‍💻 Best Practices Implemented
 
 - Component-based architecture
-- Separation of concerns (components and styles)
+- Separation of concerns (components, pages, and styles)
 - Reusable components
 - Clean and maintainable code
 - Semantic HTML
 - Responsive design patterns
 - Modern ES6+ JavaScript
+- React Hooks (useState, useEffect)
+- Client-side routing with React Router
+- Form handling and validation
+- Search and filter functionality
+- Pagination implementation
+
+## 🌟 Features Highlights
+
+### Interactive Search & Filters
+- Real-time search across multiple data points
+- Category-based filtering
+- Rating-based filtering
+- Instant results without page reload
+
+### Responsive Design
+- Mobile-first approach
+- Breakpoints for tablets and desktops
+- Touch-friendly interface
+- Optimized for all screen sizes
+
+### User Experience
+- Smooth animations and transitions
+- Hover effects for better interactivity
+- Loading states and feedback
+- Clear call-to-action buttons
+- Intuitive navigation
 
 ## 📄 License
 
@@ -184,6 +236,10 @@ This project is created for educational purposes.
 
 Contributions, issues, and feature requests are welcome!
 
+## 📧 Contact
+
+For any queries, please reach out through the contact form on the website.
+
 ---
 
-Built with ❤️ using ReactJS and Vite
+Built with ❤️ using ReactJS, React Router, and Vite
