@@ -1,6 +1,10 @@
 import React, { useState } from 'react';
 import '../styles/Foods.css';
 
+/**
+ * Foods data array
+ * Contains food items with images, prices, categories, and descriptions
+ */
 const foodsData = [
   // Italian (6 items)
   { id: 1, name: 'Margherita Pizza', category: 'Italian', price: '$12.99', image: 'https://images.unsplash.com/photo-1574071318508-1cdbab80d002?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80', description: 'Classic pizza with tomato sauce, mozzarella, and fresh basil' },
