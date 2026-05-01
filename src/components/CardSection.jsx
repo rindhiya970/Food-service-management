@@ -1,6 +1,10 @@
 import React from 'react';
 import '../styles/CardSection.css';
 
+/**
+ * Testimonials data array
+ * Contains user testimonials with quotes, names, roles, and images
+ */
 const testimonials = [
   {
     quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime minima dicta amet, molestiae aliquam incidunt suscipit recusandae labore ratione doloremque, architecto et illo minus quo tenetur ducimus, voluptatibus repellendus fuga aperiam vel ab! Ipsam corrupti blanditiis neque eos, vero quas.",
