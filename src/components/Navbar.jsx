@@ -2,6 +2,10 @@ import React, { useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import '../styles/Navbar.css';
 
+/**
+ * Navbar Component
+ * Displays the main navigation bar with logo and menu items
+ */
 const Navbar = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
