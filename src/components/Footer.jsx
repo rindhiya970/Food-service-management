@@ -1,7 +1,12 @@
 import React from 'react';
 import '../styles/Footer.css';
 
+/**
+ * Footer Component
+ * Displays footer with logo, links, social media icons, and copyright
+ */
 const Footer = () => {
+  // Get current year dynamically
   const currentYear = new Date().getFullYear();
   
   return (
