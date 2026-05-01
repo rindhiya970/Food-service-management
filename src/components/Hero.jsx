@@ -1,6 +1,10 @@
 import React from 'react';
 import '../styles/Hero.css';
 
+/**
+ * Hero Component
+ * Displays the main hero section with background image and CTA buttons
+ */
 const Hero = () => {
   return (
     <section className="hero">
