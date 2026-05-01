@@ -26,7 +26,12 @@ const restaurantsData = [
   { id: 18, name: '4 Seasons Chinese', rating: 4.5, address: '4 High Street, Slough SL1 1DH', cuisine: 'Chinese' },
 ];
 
+/**
+ * Restaurants Page Component
+ * Displays restaurant listings with search, filter, and pagination
+ */
 const Restaurants = () => {
+  // State management for search, filter, and pagination
   const [searchTerm, setSearchTerm] = useState('');
   const [minRating, setMinRating] = useState(0);
   const [currentPage, setCurrentPage] = useState(1);
