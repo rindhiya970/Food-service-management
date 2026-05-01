@@ -69,7 +69,12 @@ const foodsData = [
   { id: 46, name: 'Chocolate Cake', category: 'Dessert', price: '$6.99', image: 'https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80', description: 'Rich chocolate cake with ganache frosting' }
 ];
 
+/**
+ * Foods Page Component
+ * Displays food menu with images, category filtering, and search
+ */
 const Foods = () => {
+  // State for category filter and search
   const [selectedCategory, setSelectedCategory] = useState('All');
   const [searchTerm, setSearchTerm] = useState('');
 
