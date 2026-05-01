@@ -7,6 +7,7 @@ import '../styles/Navbar.css';
  * Displays the main navigation bar with logo and menu items
  */
 const Navbar = () => {
+  // State for mobile menu toggle
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   const toggleMobileMenu = () => {
