@@ -1,6 +1,10 @@
 import React from 'react';
 import '../styles/ContentSection.css';
 
+/**
+ * ContentSection Component
+ * Displays content with image and text in a two-column layout
+ */
 const ContentSection = () => {
   return (
     <section className="content-section">
