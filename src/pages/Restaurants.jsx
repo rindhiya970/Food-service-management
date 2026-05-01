@@ -1,6 +1,10 @@
 import React, { useState } from 'react';
 import '../styles/Restaurants.css';
 
+/**
+ * Restaurants data array
+ * Contains restaurant information including name, rating, address, and cuisine
+ */
 const restaurantsData = [
   { id: 1, name: '.CN Chinese', rating: 5, address: '228 City Road, Cardiff CF24 3JH', cuisine: 'Chinese' },
   { id: 2, name: '@ Thai', rating: 5, address: '376 Rayleigh Road, Essex SS9 5PT', cuisine: 'Thai' },
