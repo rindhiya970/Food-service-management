@@ -56,6 +56,10 @@ const quotes = [
   }
 ];
 
+/**
+ * Quote Page Component
+ * Displays a collection of food-related quotes in card format
+ */
 const Quote = () => {
   return (
     <div className="quote-page">
