@@ -81,6 +81,7 @@ const Foods = () => {
   // Extract unique categories from food data
   const categories = ['All', ...new Set(foodsData.map(food => food.category))];
 
+  // Filter foods based on category and search term
   const filteredFoods = foodsData.filter(food => {
     const matchesCategory = selectedCategory === 'All' || food.category === selectedCategory;
     const matchesSearch = food.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
