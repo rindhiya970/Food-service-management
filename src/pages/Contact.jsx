@@ -1,7 +1,12 @@
 import React, { useState } from 'react';
 import '../styles/Contact.css';
 
+/**
+ * Contact Page Component
+ * Displays contact form, information cards, and Google Maps integration
+ */
 const Contact = () => {
+  // Form state management
   const [formData, setFormData] = useState({
     name: '',
     email: '',
