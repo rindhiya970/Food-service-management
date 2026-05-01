@@ -78,6 +78,7 @@ const Foods = () => {
   const [selectedCategory, setSelectedCategory] = useState('All');
   const [searchTerm, setSearchTerm] = useState('');
 
+  // Extract unique categories from food data
   const categories = ['All', ...new Set(foodsData.map(food => food.category))];
 
   const filteredFoods = foodsData.filter(food => {
