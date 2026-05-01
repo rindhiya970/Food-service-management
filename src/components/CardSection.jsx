@@ -44,6 +44,10 @@ const testimonials = [
   }
 ];
 
+/**
+ * CardSection Component
+ * Displays testimonial cards in a responsive grid layout
+ */
 const CardSection = () => {
   return (
     <section className="card-section">
