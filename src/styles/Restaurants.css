@@ -1,3 +1,5 @@
+/* Restaurants Page Styles */
+/* Restaurant listing with search and filters */
 .restaurants-page {
   min-height: calc(100vh - 4.5rem);
   background-color: #f9fafb;
