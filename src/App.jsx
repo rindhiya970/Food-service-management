@@ -9,6 +9,10 @@ import Foods from './pages/Foods';
 import Contact from './pages/Contact';
 import './App.css';
 
+/**
+ * Main App Component
+ * Sets up routing and layout structure
+ */
 function App() {
   return (
     <Router>
