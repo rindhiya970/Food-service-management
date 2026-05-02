@@ -1,0 +1,9 @@
+# Ignore artifacts
+dist
+build
+coverage
+node_modules
+
+# Ignore config files
+package-lock.json
+yarn.lock
