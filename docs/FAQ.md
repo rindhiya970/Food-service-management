@@ -12,7 +12,10 @@ GeekFoods is a modern food discovery web application built with React that helps
 - **CSS3** - Styling with custom properties
 
 ### Is this project open source?
-Yes, this project is open source under the MIT License.
+Yes! This project is open source under the MIT License. We welcome contributions from the community. Check out our CONTRIBUTING.md file for guidelines on how to contribute.
+
+### Can I use this for my own project?
+Absolutely! Feel free to fork, modify, and use this project for your own purposes. Just make sure to follow the MIT License terms.
 
 ## Development Questions
 
