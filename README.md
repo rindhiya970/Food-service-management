@@ -249,6 +249,10 @@ Contributions, issues, and feature requests are welcome!
 
 For any queries, please reach out through the contact form on the website.
 
+**Project Maintainer**: GeekFoods Team
+
 ---
 
 Built with ❤️ using ReactJS, React Router, and Vite
+
+⭐ Star this repo if you find it helpful!
