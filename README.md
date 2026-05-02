@@ -1,5 +1,7 @@
 # GeekFoods - ReactJS Web Application
 
+> A modern, fully responsive food discovery platform built with React
+
 A modern, fully responsive web application built with ReactJS that showcases a food discovery platform. This project demonstrates the implementation of reusable React components, routing, and interactive features following best practices.
 
 ## 🚀 Project Overview
