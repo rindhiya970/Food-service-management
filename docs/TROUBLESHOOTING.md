@@ -4,12 +4,14 @@
 
 ### Development Server Won't Start
 
-**Problem:** `npm run dev` fails
+**Problem:** `npm run dev` fails to start the development server
 
 **Solutions:**
-1. Delete `node_modules` and `package-lock.json`
-2. Run `npm install` again
-3. Check Node.js version (should be v14+)
+1. Delete `node_modules` folder and `package-lock.json` file
+2. Run `npm install` again to reinstall dependencies
+3. Check Node.js version (should be v14 or higher)
+4. Ensure port 5173 is not already in use
+5. Try running with `npm run dev -- --port 3000` to use a different port
 
 ### Build Fails
 
