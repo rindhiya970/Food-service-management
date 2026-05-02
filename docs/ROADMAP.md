@@ -13,14 +13,16 @@
 - [x] React Router integration
 - [x] Complete documentation
 
-## Version 1.1 (Planned)
+## Version 1.1 (Planned) - Q2 2024
 
-- [ ] Add unit tests
+- [ ] Add comprehensive unit tests
 - [ ] Implement lazy loading for images
-- [ ] Add loading states
-- [ ] Improve accessibility
+- [ ] Add loading states and skeletons
+- [ ] Improve accessibility (WCAG 2.1 AA)
 - [ ] Add dark mode toggle
-- [ ] Optimize performance
+- [ ] Optimize performance and bundle size
+- [ ] Add error boundaries
+- [ ] Implement service worker for PWA
 
 ## Version 2.0 (Future)
 
