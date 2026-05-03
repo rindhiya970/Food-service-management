@@ -159,10 +159,10 @@ npm run dev
 ## 🌐 Pages & Routes
 
 - `/` - Home page with Hero, Content Section, and Testimonials
-- `/quote` - Food quotes page
+- `/quote` - Food quotes page with inspirational quotes
 - `/restaurants` - Restaurant listing with search and filters
 - `/foods` - Food menu with images and categories
-- `/contact` - Contact form and information
+- `/contact` - Contact form and information with map integration
 
 ## 🔧 Customization
 
