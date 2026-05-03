@@ -88,10 +88,10 @@ geek-food/
 
 ### Restaurants Page
 - **Search Functionality**: Real-time search across restaurant names, addresses, and cuisines
-- **Rating Filter**: Filter restaurants by minimum star rating
-- **Restaurant Cards**: Display name, rating, address, cuisine type
-- **Pagination**: Navigate through multiple pages of results
-- **Responsive Grid**: Adapts to different screen sizes
+- **Rating Filter**: Filter restaurants by minimum star rating (0-5 stars)
+- **Restaurant Cards**: Display name, rating, address, cuisine type with icons
+- **Pagination**: Navigate through multiple pages of results (9 per page)
+- **Responsive Grid**: Adapts to different screen sizes seamlessly
 
 ### Foods Page
 - **Visual Gallery**: 18+ food items with high-quality images
