@@ -42,7 +42,7 @@ Modern browsers (Chrome, Firefox, Safari, Edge) - latest 2 versions.
 Currently, the application uses static data arrays for demonstration purposes. Backend integration with REST APIs or GraphQL is planned for future versions. This allows for easy deployment as a static site while maintaining full functionality.
 
 ### Can I add my own restaurant data?
-Yes, you can modify the data arrays in the respective page files.
+Yes, absolutely! You can modify the data arrays in the respective page files. For restaurants, edit the `restaurantsData` array in `src/pages/Restaurants.jsx`. For foods, edit the `foodsData` array in `src/pages/Foods.jsx`. Simply follow the existing data structure to add your own entries.
 
 ### Is there a mobile app?
 Not yet, but the web app is fully responsive and works great on mobile browsers.
