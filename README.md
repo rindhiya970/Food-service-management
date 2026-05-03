@@ -149,12 +149,12 @@ npm run dev
 
 ## 🎨 Design Features
 
-- **Responsive Design**: Mobile-first approach with breakpoints
-- **CSS Custom Properties**: Consistent theming with CSS variables
-- **Modern UI**: Clean, professional design with smooth transitions
-- **Interactive Elements**: Hover effects, active states, and animations
-- **Accessibility**: Semantic HTML and ARIA labels
-- **Performance**: Optimized images and efficient rendering
+- **Responsive Design**: Mobile-first approach with breakpoints for all devices
+- **CSS Custom Properties**: Consistent theming with CSS variables for easy customization
+- **Modern UI**: Clean, professional design with smooth transitions and animations
+- **Interactive Elements**: Hover effects, active states, and micro-interactions
+- **Accessibility**: Semantic HTML and ARIA labels for screen readers
+- **Performance**: Optimized images and efficient rendering for fast load times
 
 ## 🌐 Pages & Routes
 
