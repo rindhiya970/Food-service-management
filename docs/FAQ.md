@@ -53,7 +53,7 @@ Yes, absolutely! You can modify the data arrays in the respective page files. Fo
 Not yet, but the web app is fully responsive and works great on mobile browsers with native-like experience. A React Native mobile app is planned for future versions. You can add the web app to your home screen for an app-like experience.
 
 ### Can I customize the theme?
-Yes, modify the CSS custom properties in `src/index.css`.
+Yes, modify the CSS custom properties in `src/index.css`. You can change colors, fonts, spacing, and more. The entire theme is built on CSS variables for easy customization. No need to search through multiple files!
 
 ## Deployment Questions
 
