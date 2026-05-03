@@ -34,7 +34,7 @@ npm run build
 Yes! Please read CONTRIBUTING.md for guidelines.
 
 ### What's the browser support?
-Modern browsers (Chrome, Firefox, Safari, Edge) - latest 2 versions.
+Modern browsers (Chrome, Firefox, Safari, Edge) - latest 2 versions. The application uses modern JavaScript features and CSS properties, so older browsers like Internet Explorer are not supported. For the best experience, we recommend using the latest version of Chrome or Firefox.
 
 ## Feature Questions
 
