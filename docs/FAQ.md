@@ -21,9 +21,13 @@ Absolutely! Feel free to fork, modify, and use this project for your own purpose
 
 ### How do I run the project locally?
 ```bash
+# Install dependencies first
 npm install
+
+# Start the development server
 npm run dev
 ```
+The app will be available at `http://localhost:5173` with hot module replacement enabled.
 
 ### How do I build for production?
 ```bash
