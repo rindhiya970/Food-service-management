@@ -96,14 +96,14 @@
 
 ### 📊 Project Statistics
 
-- **Total Pages:** 5
-- **Total Components:** 10
-- **Total CSS Files:** 9
-- **Lines of Code:** ~2000+
-- **Restaurant Listings:** 18
-- **Food Items:** 18
-- **Quotes:** 12
-- **Food Categories:** 14
+- **Total Pages:** 5 fully functional pages
+- **Total Components:** 10 reusable components
+- **Total CSS Files:** 9 modular stylesheets
+- **Lines of Code:** ~2000+ well-documented lines
+- **Restaurant Listings:** 18 with full details
+- **Food Items:** 18 with images and descriptions
+- **Quotes:** 12 inspirational quotes
+- **Food Categories:** 14 different cuisines
 
 ### 🚀 How to Run
 
