@@ -77,8 +77,8 @@ geek-food/
 
 ### Home Page
 - **Hero Section**: Eye-catching hero with background image and CTAs
-- **Content Section**: Two-column layout with image and text
-- **Testimonial Cards**: Grid layout displaying user testimonials
+- **Content Section**: Two-column layout with image and text content
+- **Testimonial Cards**: Grid layout displaying user testimonials with avatars
 
 ### Quote Page
 - Collection of 12+ inspirational food quotes
