@@ -36,7 +36,7 @@ npm run build
 This creates an optimized production build in the `dist` folder with minified code, optimized assets, and code splitting for better performance.
 
 ### Can I contribute to this project?
-Yes! Please read CONTRIBUTING.md for guidelines.
+Yes! Please read CONTRIBUTING.md for guidelines. We welcome all types of contributions including bug fixes, new features, documentation improvements, and design enhancements. Make sure to follow our code style and commit message conventions.
 
 ### What's the browser support?
 Modern browsers (Chrome, Firefox, Safari, Edge) - latest 2 versions. The application uses modern JavaScript features and CSS properties, so older browsers like Internet Explorer are not supported. For the best experience, we recommend using the latest version of Chrome or Firefox.
