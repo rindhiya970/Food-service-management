@@ -225,10 +225,10 @@ The optimized files will be in the `dist` folder, ready for deployment to any st
 - Instant results without page reload for better UX
 
 ### Responsive Design
-- Mobile-first approach
-- Breakpoints for tablets and desktops
-- Touch-friendly interface
-- Optimized for all screen sizes
+- Mobile-first approach for optimal mobile experience
+- Breakpoints for tablets and desktops for all screen sizes
+- Touch-friendly interface with proper tap targets
+- Optimized for all screen sizes from 320px to 4K displays
 
 ### User Experience
 - Smooth animations and transitions
