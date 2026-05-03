@@ -39,7 +39,7 @@ Modern browsers (Chrome, Firefox, Safari, Edge) - latest 2 versions.
 ## Feature Questions
 
 ### Does it have a backend?
-Currently, it uses static data. Backend integration is planned for future versions.
+Currently, the application uses static data arrays for demonstration purposes. Backend integration with REST APIs or GraphQL is planned for future versions. This allows for easy deployment as a static site while maintaining full functionality.
 
 ### Can I add my own restaurant data?
 Yes, you can modify the data arrays in the respective page files.
