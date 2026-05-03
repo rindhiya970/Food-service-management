@@ -50,12 +50,15 @@
 
 ### Styles Not Applying
 
-**Problem:** CSS not working
+**Problem:** CSS not working or styles look broken
 
 **Solutions:**
-1. Check CSS import paths
-2. Clear browser cache
-3. Verify CSS file names match imports
+1. Check CSS import paths are correct in components
+2. Clear browser cache and hard reload (Ctrl+Shift+R)
+3. Verify CSS file names match imports exactly
+4. Check for CSS syntax errors in browser console
+5. Ensure CSS files are in the correct directory
+6. Check if CSS is being overridden by other styles
 
 ## Getting Help
 
