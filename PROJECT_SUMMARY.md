@@ -135,16 +135,16 @@ The development server will start at `http://localhost:5173` with automatic brow
 
 ### 🎓 Learning Outcomes
 
-- React component creation
-- React Router implementation
-- State management with useState
-- Event handling
-- Form handling and validation
-- Array methods (map, filter)
-- Conditional rendering
-- CSS Grid and Flexbox
-- Responsive design
-- Component composition
+- React component creation and composition
+- React Router implementation for multi-page apps
+- State management with useState hook
+- Event handling and user interactions
+- Form handling and validation techniques
+- Array methods (map, filter) for data manipulation
+- Conditional rendering patterns
+- CSS Grid and Flexbox layouts
+- Responsive design principles
+- Component composition and reusability
 
 ### 🌟 Bonus Features Added
 
