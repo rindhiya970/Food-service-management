@@ -180,12 +180,12 @@ Edit CSS custom properties in `src/index.css` to change the theme:
 ```
 
 ### Content
-- Update testimonials in `src/components/CardSection.jsx`
-- Modify hero text in `src/components/Hero.jsx`
-- Change navigation links in `src/components/Navbar.jsx`
-- Add/edit restaurants in `src/pages/Restaurants.jsx`
-- Add/edit food items in `src/pages/Foods.jsx`
-- Update quotes in `src/pages/Quote.jsx`
+- Update testimonials in `src/components/CardSection.jsx` - Modify the testimonials array
+- Modify hero text in `src/components/Hero.jsx` - Change heading and description
+- Change navigation links in `src/components/Navbar.jsx` - Update menu items
+- Add/edit restaurants in `src/pages/Restaurants.jsx` - Modify restaurantsData array
+- Add/edit food items in `src/pages/Foods.jsx` - Modify foodsData array
+- Update quotes in `src/pages/Quote.jsx` - Modify quotes array
 
 ## 📦 Deployment
 
