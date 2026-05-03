@@ -38,12 +38,15 @@
 
 ### Images Not Loading
 
-**Problem:** Images don't display
+**Problem:** Images don't display or show broken image icons
 
 **Solutions:**
-1. Check image URLs are valid
-2. Verify CORS settings
-3. Check network tab for errors
+1. Check image URLs are valid and accessible
+2. Verify CORS settings on image hosting service
+3. Check network tab in browser DevTools for errors
+4. Ensure images are properly imported in components
+5. Check if image URLs are blocked by ad blockers
+6. Verify internet connection is stable
 
 ### Styles Not Applying
 
