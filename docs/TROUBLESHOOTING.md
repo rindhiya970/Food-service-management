@@ -27,12 +27,14 @@
 
 ### Routing Not Working
 
-**Problem:** Routes show 404 on refresh
+**Problem:** Routes show 404 on refresh in production
 
 **Solutions:**
-1. Configure server for SPA routing
-2. Add `_redirects` file for Netlify
-3. Configure `vercel.json` for Vercel
+1. Configure server for SPA routing (Single Page Application)
+2. Add `_redirects` file for Netlify: `/* /index.html 200`
+3. Configure `vercel.json` for Vercel with rewrites
+4. For Apache, add `.htaccess` with rewrite rules
+5. For Nginx, configure try_files directive
 
 ### Images Not Loading
 
