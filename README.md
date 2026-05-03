@@ -239,11 +239,11 @@ The optimized files will be in the `dist` folder, ready for deployment to any st
 
 ## 📄 License
 
-This project is created for educational purposes.
+This project is created for educational purposes and is open source under the MIT License.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page and submit pull requests.
 
 ## 📧 Contact
 
