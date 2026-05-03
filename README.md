@@ -128,7 +128,7 @@ git clone <repository-url>
 cd geek-food
 ```
 
-2. Install dependencies:
+2. Install dependencies (this may take a few minutes):
 ```bash
 npm install
 ```
@@ -138,7 +138,7 @@ npm install
 npm run dev
 ```
 
-4. Open your browser and navigate to `http://localhost:5173`
+4. Open your browser and navigate to `http://localhost:5173` to see the app running
 
 ## 📜 Available Scripts
 
