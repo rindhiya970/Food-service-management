@@ -195,11 +195,11 @@ npm run build
 ```
 
 The optimized files will be in the `dist` folder, ready for deployment to any static hosting service like:
-- Vercel
-- Netlify
-- GitHub Pages
-- AWS S3
-- Firebase Hosting
+- **Vercel** - Zero configuration deployment
+- **Netlify** - Continuous deployment from Git
+- **GitHub Pages** - Free hosting for static sites
+- **AWS S3** - Scalable cloud storage
+- **Firebase Hosting** - Fast and secure web hosting
 
 ## 👨‍💻 Best Practices Implemented
 
