@@ -108,11 +108,11 @@ geek-food/
 - **Responsive Layout**: Two-column layout on desktop, stacked on mobile devices
 
 ### Footer Component
-- Teal logo with "logoipsum"
-- Navigation links
-- 5 social media icons (Facebook, Instagram, Twitter, GitHub, Dribbble)
-- Copyright information with dynamic year
-- Hover effects and transitions
+- Teal logo with "logoipsum" branding
+- Navigation links to all major sections
+- 5 social media icons (Facebook, Instagram, Twitter, GitHub, Dribbble) with hover effects
+- Copyright information with dynamic year calculation
+- Hover effects and smooth transitions for better UX
 
 ## 🚀 Getting Started
 
