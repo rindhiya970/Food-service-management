@@ -81,10 +81,10 @@ geek-food/
 - **Testimonial Cards**: Grid layout displaying user testimonials with avatars
 
 ### Quote Page
-- Collection of 12+ inspirational food quotes
-- Clean card-based layout
-- Author attribution
-- Hover effects on cards
+- Collection of 12+ inspirational food quotes from renowned chefs and food enthusiasts
+- Clean card-based layout with elegant typography
+- Author attribution with proper styling
+- Hover effects on cards for better interactivity
 
 ### Restaurants Page
 - **Search Functionality**: Real-time search across restaurant names, addresses, and cuisines
