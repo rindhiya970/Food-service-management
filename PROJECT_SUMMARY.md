@@ -24,11 +24,11 @@
    - Restaurant cards with comprehensive details
 
 4. **Foods Page** (`/foods`)
-   - 18 food items with images
-   - Category filtering (14 categories)
-   - Search functionality
-   - Beautiful image gallery
-   - Price and description display
+   - 18 food items with high-quality images
+   - Category filtering (14 different cuisines)
+   - Search functionality across names and descriptions
+   - Beautiful image gallery with hover effects
+   - Price and description display for each item
 
 5. **Contact Page** (`/contact`)
    - Contact form with validation
