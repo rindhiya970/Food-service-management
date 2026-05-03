@@ -62,6 +62,8 @@
 
 ## Getting Help
 
-- Check GitHub Issues
-- Review documentation in `/docs`
-- Contact project maintainers
+- Check GitHub Issues for similar problems and solutions
+- Review documentation in `/docs` folder for detailed guides
+- Contact project maintainers through GitHub discussions
+- Join our community Discord server (link in repository)
+- Stack Overflow with tag `geekfoods`
