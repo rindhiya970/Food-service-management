@@ -33,6 +33,7 @@ The app will be available at `http://localhost:5173` with hot module replacement
 ```bash
 npm run build
 ```
+This creates an optimized production build in the `dist` folder with minified code, optimized assets, and code splitting for better performance.
 
 ### Can I contribute to this project?
 Yes! Please read CONTRIBUTING.md for guidelines.
