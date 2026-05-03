@@ -219,10 +219,10 @@ The optimized files will be in the `dist` folder, ready for deployment to any st
 ## 🌟 Features Highlights
 
 ### Interactive Search & Filters
-- Real-time search across multiple data points
-- Category-based filtering
-- Rating-based filtering
-- Instant results without page reload
+- Real-time search across multiple data points without page reload
+- Category-based filtering with instant results
+- Rating-based filtering for quality assurance
+- Instant results without page reload for better UX
 
 ### Responsive Design
 - Mobile-first approach
