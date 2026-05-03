@@ -17,11 +17,11 @@
    - Hover effects for better interactivity
 
 3. **Restaurants Page** (`/restaurants`)
-   - 18 restaurant listings
-   - Search functionality
-   - Rating filter (0-5 stars)
-   - Pagination (9 items per page)
-   - Restaurant cards with details
+   - 18 restaurant listings with detailed information
+   - Search functionality across names, addresses, and cuisines
+   - Rating filter (0-5 stars) for quality filtering
+   - Pagination (9 items per page) for easy navigation
+   - Restaurant cards with comprehensive details
 
 4. **Foods Page** (`/foods`)
    - 18 food items with images
