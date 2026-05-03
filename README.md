@@ -167,15 +167,15 @@ npm run dev
 ## 🔧 Customization
 
 ### Colors
-Edit CSS custom properties in `src/index.css`:
+Edit CSS custom properties in `src/index.css` to change the theme:
 ```css
 :root {
-  --primary-color: #e11d48;
-  --primary-hover: #be123c;
-  --text-main: #111827;
-  --text-muted: #4b5563;
-  --bg-color: #ffffff;
-  --bg-light: #f9fafb;
+  --primary-color: #e11d48;     /* Main brand color */
+  --primary-hover: #be123c;     /* Hover state color */
+  --text-main: #111827;         /* Primary text color */
+  --text-muted: #4b5563;        /* Secondary text color */
+  --bg-color: #ffffff;          /* Background color */
+  --bg-light: #f9fafb;          /* Light background */
 }
 ```
 
