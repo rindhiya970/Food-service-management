@@ -69,10 +69,10 @@ geek-food/
 
 ### Header Component (Navbar)
 - Responsive navigation menu with React Router integration
-- Blue play button logo
-- Active link highlighting
-- Mobile-friendly hamburger menu
-- Sticky positioning for better UX
+- Blue play button logo with brand identity
+- Active link highlighting for better UX
+- Mobile-friendly hamburger menu with smooth transitions
+- Sticky positioning for better navigation experience
 - "Get started" call-to-action button
 
 ### Home Page
