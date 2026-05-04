@@ -24,15 +24,17 @@
 - [ ] Add error boundaries
 - [ ] Implement service worker for PWA
 
-## Version 2.0 (Future)
+## Version 2.0 (Future) - Q3-Q4 2024
 
-- [ ] Backend API integration
-- [ ] User authentication
-- [ ] User profiles
-- [ ] Favorite restaurants feature
-- [ ] Order placement system
-- [ ] Reviews and ratings
-- [ ] Real-time updates
+- [ ] Backend API integration with REST or GraphQL
+- [ ] User authentication with JWT tokens
+- [ ] User profiles with customization options
+- [ ] Favorite restaurants feature with local storage
+- [ ] Order placement system with cart functionality
+- [ ] Reviews and ratings system for restaurants
+- [ ] Real-time updates using WebSockets
+- [ ] Email notifications for orders
+- [ ] Advanced search with filters
 
 ## Version 3.0 (Long-term)
 
