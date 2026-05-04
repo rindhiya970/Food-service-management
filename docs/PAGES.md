@@ -16,11 +16,12 @@
 **Route:** `/quote`
 
 **Features:**
-- Display food quotes
-- Card-based layout
-- Author attribution
+- Display food-related inspirational quotes
+- Card-based layout for easy reading
+- Author attribution for each quote
+- Responsive grid design
 
-**Data:** 12 inspirational quotes
+**Data:** 12 inspirational quotes about food and cooking
 
 ## Restaurants Page
 
