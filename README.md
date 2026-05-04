@@ -117,8 +117,8 @@ geek-food/
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js (v14 or higher recommended)
-- npm (comes with Node.js) or yarn package manager
+- Node.js (v14 or higher recommended for optimal performance)
+- npm (comes bundled with Node.js) or yarn package manager
 
 ### Installation
 
