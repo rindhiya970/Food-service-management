@@ -12,10 +12,10 @@ Currently, the project does not have automated tests implemented. This document 
 
 ## Test Coverage Goals
 
-- Unit tests for utility functions
-- Component tests for all React components
-- Integration tests for page flows
-- E2E tests for critical user journeys
+- Unit tests for utility functions and helper methods
+- Component tests for all React components with props variations
+- Integration tests for page flows and user interactions
+- E2E tests for critical user journeys like search and navigation
 
 ## Manual Testing Checklist
 
