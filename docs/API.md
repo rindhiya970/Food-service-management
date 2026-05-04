@@ -26,11 +26,11 @@ This project currently uses static data arrays defined within component files. N
 ### Restaurant Object
 ```javascript
 {
-  id: number,
-  name: string,
-  rating: number,
-  address: string,
-  cuisine: string
+  id: number,        // Unique identifier for the restaurant
+  name: string,      // Restaurant name
+  rating: number,    // Rating out of 5 stars
+  address: string,   // Full street address
+  cuisine: string    // Type of cuisine served
 }
 ```
 
