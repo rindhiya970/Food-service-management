@@ -7,12 +7,12 @@ This document provides detailed information about all reusable components in the
 
 **Location:** `src/components/Navbar.jsx`
 
-**Purpose:** Main navigation bar with logo and menu items
+**Purpose:** Main navigation bar with logo and menu items for site-wide navigation
 
-**Props:** None
+**Props:** None (stateless component with internal state)
 
 **State:**
-- `isMobileMenuOpen`: Boolean for mobile menu toggle
+- `isMobileMenuOpen`: Boolean for mobile menu toggle state
 
 **Features:**
 - Responsive design
