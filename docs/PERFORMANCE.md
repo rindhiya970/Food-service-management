@@ -12,9 +12,9 @@
    - Lazy loading images using browser native loading attribute
 
 3. **CSS**
-   - Minimal CSS files
-   - No unused styles
-   - CSS custom properties for theming
+   - Minimal CSS files for faster parsing
+   - No unused styles to reduce bundle size
+   - CSS custom properties for efficient theming without duplication
 
 ## Future Optimizations
 
