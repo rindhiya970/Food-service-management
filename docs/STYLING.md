@@ -2,7 +2,7 @@
 
 ## CSS Architecture
 
-Each component/page has its own CSS file for better organization and maintainability.
+Each component and page has its own dedicated CSS file for better organization, maintainability, and modularity.
 
 ## CSS Custom Properties
 
