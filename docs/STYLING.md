@@ -19,9 +19,9 @@ Defined in `src/index.css`:
 
 ## Responsive Breakpoints
 
-- Mobile: < 768px
-- Tablet: 768px - 1024px
-- Desktop: > 1024px
+- Mobile: < 768px (smartphones and small devices)
+- Tablet: 768px - 1024px (tablets and medium devices)
+- Desktop: > 1024px (laptops and large screens)
 
 ## Naming Conventions
 
