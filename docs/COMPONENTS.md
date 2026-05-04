@@ -39,29 +39,31 @@ This document provides detailed information about all reusable components in the
 
 **Location:** `src/components/ContentSection.jsx`
 
-**Purpose:** Two-column layout with image and text
+**Purpose:** Two-column layout with image and text for content presentation
 
-**Props:** None
+**Props:** None (static content component)
 
 **Features:**
-- Responsive grid layout
-- Image with text content
-- CTA button
+- Responsive grid layout that adapts to screen size
+- Image with text content side by side
+- CTA button with hover effects
+- Mobile-friendly stacked layout on small screens
 
 ## CardSection Component
 
 **Location:** `src/components/CardSection.jsx`
 
-**Purpose:** Display testimonial cards
+**Purpose:** Display testimonial cards in an engaging grid layout
 
-**Props:** None
+**Props:** None (uses internal data array)
 
-**Data:** Array of testimonials
+**Data:** Array of testimonials with user information
 
 **Features:**
-- Responsive grid
-- User avatars
-- Quote display
+- Responsive grid layout that adapts to different screen sizes
+- User avatars with rounded styling
+- Quote display with proper formatting
+- Hover effects for better interactivity
 
 ## Footer Component
 
