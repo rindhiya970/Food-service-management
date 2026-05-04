@@ -25,9 +25,10 @@ Defined in `src/index.css`:
 
 ## Naming Conventions
 
-- Use kebab-case for class names
-- Component-specific prefixes (e.g., `.navbar-`, `.hero-`)
-- Descriptive names (`.btn-get-started`, `.food-card`)
+- Use kebab-case for all class names (e.g., `.my-class`)
+- Component-specific prefixes for clarity (e.g., `.navbar-`, `.hero-`)
+- Descriptive names that explain purpose (`.btn-get-started`, `.food-card`)
+- Avoid generic names like `.box` or `.item`
 
 ## Layout Techniques
 
