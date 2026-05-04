@@ -15,10 +15,11 @@ This document provides detailed information about all reusable components in the
 - `isMobileMenuOpen`: Boolean for mobile menu toggle state
 
 **Features:**
-- Responsive design
-- Mobile hamburger menu
-- Active link highlighting
-- Sticky positioning
+- Responsive design with mobile and desktop layouts
+- Mobile hamburger menu with smooth transitions
+- Active link highlighting using React Router NavLink
+- Sticky positioning for better navigation experience
+- Smooth animations on menu toggle
 
 ## Hero Component
 
