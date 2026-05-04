@@ -25,14 +25,15 @@ This document provides detailed information about all reusable components in the
 
 **Location:** `src/components/Hero.jsx`
 
-**Purpose:** Hero section with background image and CTA buttons
+**Purpose:** Hero section with background image and CTA buttons for landing page impact
 
-**Props:** None
+**Props:** None (presentational component)
 
 **Features:**
-- Full-height background image
-- Overlay for text readability
-- Call-to-action buttons
+- Full-height background image with overlay
+- Overlay for text readability and contrast
+- Call-to-action buttons with hover effects
+- Responsive text sizing for different screens
 
 ## ContentSection Component
 
