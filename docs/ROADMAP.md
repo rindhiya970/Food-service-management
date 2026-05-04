@@ -50,4 +50,4 @@
 
 ## Community Requests
 
-Submit feature requests via GitHub Issues!
+Submit feature requests via GitHub Issues! We love hearing from our community and value your feedback. Popular requests will be prioritized in future releases.
