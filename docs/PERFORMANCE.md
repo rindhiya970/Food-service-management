@@ -31,9 +31,9 @@ const Quote = lazy(() => import('./pages/Quote'));
 - Add loading="lazy" attribute
 
 ### Performance Monitoring
-- Add Lighthouse CI
-- Monitor Core Web Vitals
-- Track bundle size
+- Add Lighthouse CI for continuous performance tracking
+- Monitor Core Web Vitals (LCP, FID, CLS) in production
+- Track bundle size changes over time
 
 ### Caching Strategy
 - Service Worker for offline support
