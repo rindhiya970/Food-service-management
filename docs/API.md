@@ -2,7 +2,7 @@
 
 ## Current Status
 
-This project currently uses static data arrays. No external APIs are integrated yet.
+This project currently uses static data arrays defined within component files. No external APIs are integrated yet, making it easy to run without API keys or network dependencies.
 
 ## Future API Integration
 
