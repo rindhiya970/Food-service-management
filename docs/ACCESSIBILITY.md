@@ -16,8 +16,8 @@
    - Focus states are visible with clear visual indicators
 
 4. **Color Contrast**
-   - Text meets WCAG AA standards
-   - Sufficient contrast ratios
+   - Text meets WCAG AA standards for readability
+   - Sufficient contrast ratios between text and backgrounds
 
 ## Accessibility Checklist
 
