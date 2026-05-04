@@ -28,17 +28,17 @@
 **Route:** `/restaurants`
 
 **Features:**
-- Search functionality
-- Rating filter
-- Pagination (9 per page)
-- Restaurant cards
+- Search functionality to find restaurants by name
+- Rating filter to show restaurants above minimum rating
+- Pagination system (9 restaurants per page)
+- Restaurant cards with detailed information
 
-**Data:** 18 restaurant listings
+**Data:** 18 restaurant listings with ratings and addresses
 
 **State:**
-- searchTerm
-- minRating
-- currentPage
+- searchTerm - User input for restaurant search
+- minRating - Minimum rating filter value
+- currentPage - Current pagination page number
 
 ## Foods Page
 
