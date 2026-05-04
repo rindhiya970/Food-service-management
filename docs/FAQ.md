@@ -64,4 +64,4 @@ Vercel, Netlify, GitHub Pages, Firebase Hosting, or any static hosting service. 
 No, it's a static site that can be hosted on any CDN or static hosting platform. No backend server, database, or server-side processing required. This makes it fast, secure, and easy to deploy.
 
 ### How do I set up custom domain?
-Follow your hosting provider's documentation for custom domain setup.
+Follow your hosting provider's documentation for custom domain setup. Most providers offer easy DNS configuration through their dashboard. Typically involves updating your domain's nameservers or adding CNAME records.
