@@ -45,16 +45,16 @@
 **Route:** `/foods`
 
 **Features:**
-- Image gallery
-- Category filtering
-- Search functionality
-- Food cards with prices
+- Image gallery showcasing food items
+- Category filtering for easy navigation
+- Search functionality to find specific foods
+- Food cards displaying prices and descriptions
 
-**Data:** 18 food items
+**Data:** 18 food items across multiple categories
 
 **State:**
-- selectedCategory
-- searchTerm
+- selectedCategory - Currently active category filter
+- searchTerm - User search input for food items
 
 ## Contact Page
 
