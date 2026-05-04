@@ -69,12 +69,13 @@ This document provides detailed information about all reusable components in the
 
 **Location:** `src/components/Footer.jsx`
 
-**Purpose:** Footer with links and social media
+**Purpose:** Footer section with links and social media integration
 
-**Props:** None
+**Props:** None (presentational component)
 
 **Features:**
-- Logo and description
-- Navigation links
-- Social media icons
-- Dynamic copyright year
+- Logo and company description for branding
+- Navigation links for easy site access
+- Social media icons with external links
+- Dynamic copyright year using JavaScript Date object
+- Responsive layout for all device sizes
