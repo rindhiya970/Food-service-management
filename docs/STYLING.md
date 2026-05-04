@@ -32,9 +32,10 @@ Defined in `src/index.css`:
 
 ## Layout Techniques
 
-- CSS Grid for card layouts
-- Flexbox for navigation and alignment
-- CSS Custom Properties for theming
+- CSS Grid for card layouts and complex grid systems
+- Flexbox for navigation, alignment, and one-dimensional layouts
+- CSS Custom Properties for consistent theming across components
+- Media queries for responsive design adaptations
 
 ## Best Practices
 
