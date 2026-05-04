@@ -10,10 +10,10 @@ A modern, fully responsive web application built with ReactJS that showcases a f
 
 ## 🚀 Project Overview
 
-This project creates a dynamic multi-page web application using ReactJS, divided into crucial components:
-- **Header Component (Navbar)**: Navigation and branding with active link highlighting
-- **Body Section Components**: Multiple pages with unique content and functionality
-- **Footer Component**: Links, social media, and copyright information
+This project creates a dynamic multi-page web application using ReactJS, divided into crucial components that work together seamlessly:
+- **Header Component (Navbar)**: Navigation and branding with active link highlighting and mobile menu
+- **Body Section Components**: Multiple pages with unique content and interactive functionality
+- **Footer Component**: Links, social media integration, and copyright information
 
 ### Live Demo
 Coming soon...
