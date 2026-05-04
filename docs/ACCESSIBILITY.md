@@ -8,8 +8,8 @@
    - Form labels associated with inputs for accessibility
 
 2. **ARIA Labels**
-   - Social media icons have aria-label
-   - Form inputs have proper labels
+   - Social media icons have descriptive aria-label attributes
+   - Form inputs have proper labels for screen reader support
 
 3. **Keyboard Navigation**
    - All interactive elements are keyboard accessible
