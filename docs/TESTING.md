@@ -6,9 +6,9 @@ Currently, the project does not have automated tests implemented. This document 
 
 ## Recommended Testing Tools
 
-- **Jest**: JavaScript testing framework
-- **React Testing Library**: For component testing
-- **Cypress**: For end-to-end testing
+- **Jest**: JavaScript testing framework with excellent React support
+- **React Testing Library**: For component testing with user-centric approach
+- **Cypress**: For end-to-end testing and integration scenarios
 
 ## Test Coverage Goals
 
