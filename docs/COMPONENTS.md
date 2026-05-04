@@ -1,5 +1,8 @@
 # Components Documentation
 
+## Overview
+This document provides detailed information about all reusable components in the GeekFoods application. Each component is designed to be modular, reusable, and maintainable.
+
 ## Navbar Component
 
 **Location:** `src/components/Navbar.jsx`
