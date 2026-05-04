@@ -5,11 +5,11 @@
 **Route:** `/`
 
 **Components Used:**
-- Hero
-- ContentSection
-- CardSection
+- Hero - Main banner with call-to-action
+- ContentSection - Feature highlights
+- CardSection - Customer testimonials
 
-**Purpose:** Main landing page
+**Purpose:** Main landing page that introduces visitors to GeekFoods
 
 ## Quote Page
 
