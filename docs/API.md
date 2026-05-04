@@ -37,12 +37,12 @@ This project currently uses static data arrays defined within component files. N
 ### Food Object
 ```javascript
 {
-  id: number,
-  name: string,
-  category: string,
-  price: string,
-  image: string,
-  description: string
+  id: number,           // Unique identifier for the food item
+  name: string,         // Name of the food dish
+  category: string,     // Food category (e.g., Pizza, Burger)
+  price: string,        // Price with currency symbol
+  image: string,        // URL to food image
+  description: string   // Brief description of the dish
 }
 ```
 
