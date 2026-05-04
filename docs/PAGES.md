@@ -61,10 +61,10 @@
 **Route:** `/contact`
 
 **Features:**
-- Contact form
-- Information cards
-- Google Maps integration
-- Form validation
+- Contact form with validation
+- Information cards displaying contact details
+- Google Maps integration for location
+- Form validation for required fields
 
 **State:**
-- formData (name, email, phone, subject, message)
+- formData - Object containing name, email, phone, subject, and message fields
