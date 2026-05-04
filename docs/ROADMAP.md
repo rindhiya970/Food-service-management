@@ -36,15 +36,17 @@
 - [ ] Email notifications for orders
 - [ ] Advanced search with filters
 
-## Version 3.0 (Long-term)
+## Version 3.0 (Long-term) - 2025
 
-- [ ] Mobile app (React Native)
-- [ ] Admin dashboard
-- [ ] Analytics integration
-- [ ] Multi-language support
-- [ ] Payment integration
-- [ ] Delivery tracking
-- [ ] Push notifications
+- [ ] Mobile app (React Native) for iOS and Android
+- [ ] Admin dashboard for restaurant management
+- [ ] Analytics integration with Google Analytics
+- [ ] Multi-language support (i18n) for global reach
+- [ ] Payment integration with Stripe/PayPal
+- [ ] Delivery tracking with real-time GPS
+- [ ] Push notifications for order updates
+- [ ] Social media integration for sharing
+- [ ] Advanced reporting and insights
 
 ## Community Requests
 
