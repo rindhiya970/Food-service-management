@@ -8,8 +8,8 @@
    - Automatic code splitting for better load times
 
 2. **Image Optimization**
-   - Using Unsplash CDN for images
-   - Lazy loading images (browser native)
+   - Using Unsplash CDN for optimized image delivery
+   - Lazy loading images using browser native loading attribute
 
 3. **CSS**
    - Minimal CSS files
