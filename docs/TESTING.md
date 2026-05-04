@@ -2,7 +2,7 @@
 
 ## Testing Strategy
 
-Currently, the project does not have automated tests. This document outlines the testing strategy for future implementation.
+Currently, the project does not have automated tests implemented. This document outlines the comprehensive testing strategy for future implementation to ensure code quality and reliability.
 
 ## Recommended Testing Tools
 
