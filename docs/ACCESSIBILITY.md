@@ -12,8 +12,8 @@
    - Form inputs have proper labels for screen reader support
 
 3. **Keyboard Navigation**
-   - All interactive elements are keyboard accessible
-   - Focus states visible
+   - All interactive elements are fully keyboard accessible
+   - Focus states are visible with clear visual indicators
 
 4. **Color Contrast**
    - Text meets WCAG AA standards
