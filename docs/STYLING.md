@@ -39,8 +39,9 @@ Defined in `src/index.css`:
 
 ## Best Practices
 
-- Mobile-first approach
-- Avoid inline styles
-- Use transitions for smooth animations
-- Maintain consistent spacing
-- Keep specificity low
+- Mobile-first approach for progressive enhancement
+- Avoid inline styles to maintain separation of concerns
+- Use transitions for smooth animations and better UX
+- Maintain consistent spacing using CSS variables
+- Keep specificity low to avoid cascade issues
+- Use semantic class names that describe purpose
