@@ -49,7 +49,7 @@ This project currently uses static data arrays defined within component files. N
 ### Quote Object
 ```javascript
 {
-  text: string,
-  author: string
+  text: string,    // The quote text content
+  author: string   // Name of the quote author
 }
 ```
