@@ -20,11 +20,11 @@ Coming soon...
 
 ## 🛠️ Technology Stack
 
-- **ReactJS** - UI library for building user interfaces
-- **React Router DOM** - Client-side routing for navigation
-- **Vite** - Modern build tool and development server
-- **CSS3** - Styling with custom properties and responsive design
-- **JSX** - JavaScript XML for component structure
+- **ReactJS** - Modern UI library for building interactive user interfaces
+- **React Router DOM** - Client-side routing for seamless navigation
+- **Vite** - Next-generation build tool and lightning-fast development server
+- **CSS3** - Advanced styling with custom properties and responsive design
+- **JSX** - JavaScript XML syntax for intuitive component structure
 
 ## 📁 Project Structure
 
