@@ -21,7 +21,7 @@
 - Google Fonts - Inter font family
 
 ### Icons
-- SVG icons - Custom and open source
+- SVG icons - Custom designed and open source community contributions
 
 ## Inspiration
 
