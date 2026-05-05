@@ -25,10 +25,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Pagination system for large datasets and improved performance
 
 ### Features
-- Mobile-friendly navigation with hamburger menu
-- Active link highlighting for better navigation awareness
-- Hover effects and animations for enhanced interactivity
-- Form validation with user-friendly error messages
-- Google Maps integration for location display
-- Image galleries with high-quality photos from Unsplash
-- Smooth transitions and animations throughout the app
+- Mobile-friendly navigation with hamburger menu and smooth transitions
+- Active link highlighting for better navigation awareness and UX
+- Hover effects and animations for enhanced interactivity throughout
+- Form validation with user-friendly error messages and feedback
+- Google Maps integration for location display and directions
+- Image galleries with high-quality photos from Unsplash CDN
+- Smooth transitions and animations throughout the app for polish
