@@ -26,15 +26,15 @@
 
 ## Version 2.0 (Future) - Q3-Q4 2024
 
-- [ ] Backend API integration with REST or GraphQL
-- [ ] User authentication with JWT tokens
-- [ ] User profiles with customization options
-- [ ] Favorite restaurants feature with local storage
-- [ ] Order placement system with cart functionality
-- [ ] Reviews and ratings system for restaurants
-- [ ] Real-time updates using WebSockets
-- [ ] Email notifications for orders
-- [ ] Advanced search with filters
+- [ ] Backend API integration with REST or GraphQL endpoints
+- [ ] User authentication with JWT tokens and secure sessions
+- [ ] User profiles with customization options and preferences
+- [ ] Favorite restaurants feature with local storage persistence
+- [ ] Order placement system with shopping cart functionality
+- [ ] Reviews and ratings system for restaurants and foods
+- [ ] Real-time updates using WebSockets for live data
+- [ ] Email notifications for orders and updates
+- [ ] Advanced search with multiple filters and sorting
 
 ## Version 3.0 (Long-term) - 2025
 
