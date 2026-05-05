@@ -68,11 +68,11 @@
 
 ### 🛠️ Technologies Used
 
-- ReactJS 19.2.5 - Modern UI library
-- React Router DOM 6.x - Client-side routing
-- Vite 8.0.10 - Lightning-fast build tool
-- CSS3 with custom properties - Styling and theming
-- Modern ES6+ JavaScript - Clean code practices
+- ReactJS 19.2.5 - Modern UI library for building interfaces
+- React Router DOM 6.x - Client-side routing for navigation
+- Vite 8.0.10 - Lightning-fast build tool and dev server
+- CSS3 with custom properties - Styling and theming system
+- Modern ES6+ JavaScript - Clean code practices and syntax
 
 ### 📱 Responsive Breakpoints
 
