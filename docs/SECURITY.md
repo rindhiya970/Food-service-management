@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability, please email security@geekfoods.com instead of using the issue tracker.
+If you discover a security vulnerability in this project, please email security@geekfoods.com instead of using the public issue tracker to ensure responsible disclosure.
 
 ## Supported Versions
 
