@@ -37,7 +37,7 @@ If you discover a security vulnerability in this project, please email security@
 
 ## Dependency Security
 
-Run security audits regularly:
+Run security audits regularly to identify vulnerabilities:
 ```bash
 npm audit
 npm audit fix
