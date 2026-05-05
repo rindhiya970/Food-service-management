@@ -29,9 +29,9 @@ This project was inspired by popular food delivery and restaurant discovery plat
 
 ## Special Thanks
 
-- React community for excellent documentation
-- Stack Overflow community for problem-solving
-- Open source contributors worldwide
+- React community for excellent documentation and support
+- Stack Overflow community for problem-solving assistance
+- Open source contributors worldwide for their invaluable work
 
 ## License
 
