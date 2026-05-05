@@ -19,8 +19,8 @@ This creates an optimized production build in the `dist` folder with minified as
 ### Netlify
 
 1. Install Netlify CLI: `npm i -g netlify-cli`
-2. Run: `netlify deploy`
-3. For production: `netlify deploy --prod`
+2. Run: `netlify deploy` for preview deployment
+3. For production: `netlify deploy --prod` to deploy to live site
 
 ### GitHub Pages
 
