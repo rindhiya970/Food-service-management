@@ -14,8 +14,8 @@
 ## Resources
 
 ### Images
-- Unsplash - Free high-quality images
-- Food photography contributors
+- Unsplash - Free high-quality images from talented photographers
+- Food photography contributors worldwide
 
 ### Fonts
 - Google Fonts - Inter font family
