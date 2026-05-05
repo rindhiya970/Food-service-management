@@ -34,8 +34,8 @@ This creates an optimized production build in the `dist` folder with minified as
 ### Firebase Hosting
 
 1. Install Firebase CLI: `npm install -g firebase-tools`
-2. Initialize: `firebase init`
-3. Deploy: `firebase deploy`
+2. Initialize: `firebase init` and select hosting option
+3. Deploy: `firebase deploy` to push to Firebase hosting
 
 ## Environment Variables
 
