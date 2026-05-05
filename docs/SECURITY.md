@@ -22,11 +22,11 @@ If you discover a security vulnerability in this project, please email security@
 
 ### For Users
 
-1. Keep your deployment updated
-2. Use HTTPS for production
-3. Implement proper CORS policies
-4. Regular security audits
-5. Monitor for vulnerabilities
+1. Keep your deployment updated with latest security patches
+2. Use HTTPS for production environments to encrypt traffic
+3. Implement proper CORS policies to prevent unauthorized access
+4. Regular security audits and vulnerability scanning
+5. Monitor for vulnerabilities using automated tools
 
 ## Security Features
 
