@@ -11,10 +11,10 @@
    - Fully responsive across all devices from mobile to desktop
 
 2. **Quote Page** (`/quote`)
-   - 12 inspirational food quotes from renowned personalities
-   - Card-based layout with elegant design
-   - Author attribution with proper styling
-   - Hover effects for better interactivity
+   - 12 inspirational food quotes from renowned chefs and personalities
+   - Card-based layout with elegant design and typography
+   - Author attribution with proper styling and formatting
+   - Hover effects for better interactivity and visual feedback
 
 3. **Restaurants Page** (`/restaurants`)
    - 18 restaurant listings with detailed information
