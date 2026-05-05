@@ -38,15 +38,15 @@
 
 ## Version 3.0 (Long-term) - 2025
 
-- [ ] Mobile app (React Native) for iOS and Android
-- [ ] Admin dashboard for restaurant management
-- [ ] Analytics integration with Google Analytics
-- [ ] Multi-language support (i18n) for global reach
-- [ ] Payment integration with Stripe/PayPal
-- [ ] Delivery tracking with real-time GPS
-- [ ] Push notifications for order updates
-- [ ] Social media integration for sharing
-- [ ] Advanced reporting and insights
+- [ ] Mobile app (React Native) for iOS and Android platforms
+- [ ] Admin dashboard for restaurant management and analytics
+- [ ] Analytics integration with Google Analytics for insights
+- [ ] Multi-language support (i18n) for global reach and accessibility
+- [ ] Payment integration with Stripe/PayPal for secure transactions
+- [ ] Delivery tracking with real-time GPS location updates
+- [ ] Push notifications for order updates and promotions
+- [ ] Social media integration for sharing and engagement
+- [ ] Advanced reporting and insights dashboard for businesses
 
 ## Community Requests
 
