@@ -39,4 +39,4 @@ This creates an optimized production build in the `dist` folder with minified as
 
 ## Environment Variables
 
-Create a `.env` file based on `.env.example` for production configuration.
+Create a `.env` file based on `.env.example` for production configuration with API keys and sensitive data.
