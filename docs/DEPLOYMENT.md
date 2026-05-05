@@ -13,8 +13,8 @@ This creates an optimized production build in the `dist` folder with minified as
 ### Vercel
 
 1. Install Vercel CLI: `npm i -g vercel`
-2. Run: `vercel`
-3. Follow the prompts
+2. Run: `vercel` to start deployment
+3. Follow the interactive prompts for configuration
 
 ### Netlify
 
