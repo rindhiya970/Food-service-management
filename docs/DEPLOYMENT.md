@@ -10,6 +10,8 @@ This creates an optimized production build in the `dist` folder with minified as
 
 ## Deployment Options
 
+Choose from multiple deployment platforms based on your needs:
+
 ### Vercel
 
 1. Install Vercel CLI: `npm i -g vercel`
