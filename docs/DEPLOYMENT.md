@@ -29,7 +29,7 @@ This creates an optimized production build in the `dist` folder with minified as
    ```json
    "deploy": "gh-pages -d dist"
    ```
-3. Run: `npm run build && npm run deploy`
+3. Run: `npm run build && npm run deploy` to build and deploy
 
 ### Firebase Hosting
 
