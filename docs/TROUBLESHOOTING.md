@@ -62,8 +62,8 @@
 
 ## Getting Help
 
-- Check GitHub Issues for similar problems and solutions
-- Review documentation in `/docs` folder for detailed guides
-- Contact project maintainers through GitHub discussions
-- Join our community Discord server (link in repository)
-- Stack Overflow with tag `geekfoods`
+- Check GitHub Issues for similar problems and existing solutions
+- Review documentation in `/docs` folder for detailed guides and tutorials
+- Contact project maintainers through GitHub discussions or issues
+- Join our community Discord server (link in repository README)
+- Stack Overflow with tag `geekfoods` for community support
