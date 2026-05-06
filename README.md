@@ -142,10 +142,10 @@ npm run dev
 
 ## 📜 Available Scripts
 
-- `npm run dev` - Start development server with hot module replacement
-- `npm run build` - Build for production (output in dist folder)
-- `npm run preview` - Preview production build locally
-- `npm run lint` - Run ESLint to check code quality
+- `npm run dev` - Start development server with hot module replacement for instant updates
+- `npm run build` - Build for production (output in dist folder with optimizations)
+- `npm run preview` - Preview production build locally before deployment
+- `npm run lint` - Run ESLint to check code quality and style issues
 
 ## 🎨 Design Features
 
