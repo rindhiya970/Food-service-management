@@ -3,7 +3,7 @@
 ## General Questions
 
 ### What is GeekFoods?
-GeekFoods is a modern food discovery web application built with React that helps users explore restaurants, food items, and culinary quotes. It features a clean, intuitive interface with powerful search and filtering capabilities.
+GeekFoods is a modern food discovery web application built with React that helps users explore restaurants, food items, and culinary quotes. It features a clean, intuitive interface with powerful search and filtering capabilities for an enhanced user experience.
 
 ### What technologies are used?
 - **ReactJS** 19.2.5 - UI library
