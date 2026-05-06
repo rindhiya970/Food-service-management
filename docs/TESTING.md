@@ -55,6 +55,8 @@ Use this checklist to manually test all features before deployment:
 
 ## Future Implementation
 
+When ready to add automated testing, follow these steps:
+
 ```bash
 # Install testing dependencies
 npm install --save-dev jest @testing-library/react @testing-library/jest-dom
