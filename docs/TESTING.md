@@ -19,6 +19,8 @@ Currently, the project does not have automated tests implemented. This document 
 
 ## Manual Testing Checklist
 
+Use this checklist to manually test all features before deployment:
+
 ### Navigation
 - [ ] All navigation links work
 - [ ] Active link highlighting works
