@@ -203,18 +203,18 @@ The optimized files will be in the `dist` folder, ready for deployment to any st
 
 ## 👨‍💻 Best Practices Implemented
 
-- Component-based architecture for better code organization
+- Component-based architecture for better code organization and reusability
 - Separation of concerns (components, pages, and styles in separate folders)
-- Reusable components for maintainability
+- Reusable components for maintainability and consistency
 - Clean and maintainable code with proper naming conventions
-- Semantic HTML for better accessibility
+- Semantic HTML for better accessibility and SEO
 - Responsive design patterns following mobile-first approach
 - Modern ES6+ JavaScript with arrow functions and destructuring
-- React Hooks (useState, useEffect)
-- Client-side routing with React Router
-- Form handling and validation
-- Search and filter functionality
-- Pagination implementation
+- React Hooks (useState, useEffect) for state management
+- Client-side routing with React Router for seamless navigation
+- Form handling and validation for user input
+- Search and filter functionality for better UX
+- Pagination implementation for large datasets
 
 ## 🌟 Features Highlights
 
