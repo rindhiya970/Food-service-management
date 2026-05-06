@@ -60,4 +60,4 @@ Use these tools to test and validate accessibility:
 
 ## WCAG Compliance Goal
 
-Target: WCAG 2.1 Level AA compliance
+Target: WCAG 2.1 Level AA compliance for accessibility standards
