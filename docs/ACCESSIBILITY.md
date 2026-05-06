@@ -21,6 +21,8 @@
 
 ## Accessibility Checklist
 
+Use this checklist to ensure accessibility compliance:
+
 ### Navigation
 - [x] Keyboard accessible
 - [x] Screen reader friendly
