@@ -51,6 +51,8 @@ Use this checklist to ensure accessibility compliance:
 
 ## Testing Tools
 
+Use these tools to test and validate accessibility:
+
 - axe DevTools
 - WAVE Browser Extension
 - Lighthouse Accessibility Audit
