@@ -85,11 +85,11 @@ All features implemented, tested, and documented with comprehensive guides.
 ### 🎨 Design System
 
 **Colors:**
-- Primary Blue: #3b82f6
-- Pink Accent: #ec4899
-- Text Dark: #111827
-- Text Muted: #6b7280
-- Background: #f9fafb
+- Primary Blue: #3b82f6 (used for buttons and accents)
+- Pink Accent: #ec4899 (used for highlights and CTAs)
+- Text Dark: #111827 (primary text color)
+- Text Muted: #6b7280 (secondary text color)
+- Background: #f9fafb (light background color)
 
 **Typography:**
 - Font Family: Inter (Google Fonts)
