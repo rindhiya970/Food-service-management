@@ -243,7 +243,7 @@ This project is created for educational purposes and is open source under the MI
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page and submit pull requests.
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page and submit pull requests. Please read our CONTRIBUTING.md file for guidelines on how to contribute effectively to this project.
 
 ## 📧 Contact
 
