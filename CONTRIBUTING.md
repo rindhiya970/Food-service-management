@@ -26,9 +26,9 @@ Thank you for considering contributing to GeekFoods! This document provides comp
 
 ## Pull Request Process
 
-1. Update the README.md with details of changes if needed
-2. Ensure all tests pass
-3. Update documentation as necessary
-4. Request review from maintainers
+1. Update the README.md with details of changes if needed for documentation
+2. Ensure all tests pass and code follows style guidelines
+3. Update documentation as necessary to reflect your changes
+4. Request review from maintainers and address feedback promptly
 
-Thank you for your contributions!
+Thank you for your contributions to making GeekFoods better!
