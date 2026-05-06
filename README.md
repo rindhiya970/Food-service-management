@@ -231,11 +231,11 @@ The optimized files will be in the `dist` folder, ready for deployment to any st
 - Optimized for all screen sizes from 320px to 4K displays and beyond
 
 ### User Experience
-- Smooth animations and transitions for polished feel
-- Hover effects for better interactivity and feedback
-- Loading states and feedback for user actions
-- Clear call-to-action buttons with proper contrast
-- Intuitive navigation with breadcrumbs and active states
+- Smooth animations and transitions for polished feel and professional look
+- Hover effects for better interactivity and feedback to users
+- Loading states and feedback for user actions and operations
+- Clear call-to-action buttons with proper contrast and visibility
+- Intuitive navigation with breadcrumbs and active states for orientation
 
 ## 📄 License
 
