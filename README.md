@@ -87,11 +87,11 @@ geek-food/
 - Hover effects on cards for better interactivity and visual feedback
 
 ### Restaurants Page
-- **Search Functionality**: Real-time search across restaurant names, addresses, and cuisines
-- **Rating Filter**: Filter restaurants by minimum star rating (0-5 stars)
-- **Restaurant Cards**: Display name, rating, address, cuisine type with icons
-- **Pagination**: Navigate through multiple pages of results (9 per page)
-- **Responsive Grid**: Adapts to different screen sizes seamlessly
+- **Search Functionality**: Real-time search across restaurant names, addresses, and cuisines for quick discovery
+- **Rating Filter**: Filter restaurants by minimum star rating (0-5 stars) for quality assurance
+- **Restaurant Cards**: Display name, rating, address, cuisine type with icons and visual hierarchy
+- **Pagination**: Navigate through multiple pages of results (9 per page) for better performance
+- **Responsive Grid**: Adapts to different screen sizes seamlessly with fluid layouts
 
 ### Foods Page
 - **Visual Gallery**: 18+ food items with high-quality images from Unsplash
