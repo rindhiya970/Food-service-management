@@ -76,9 +76,9 @@
 
 ### 📱 Responsive Breakpoints
 
-- Mobile: < 768px (optimized for phones)
-- Tablet: 768px - 1024px (optimized for tablets)
-- Desktop: > 1024px (optimized for large screens)
+- Mobile: < 768px (optimized for phones with touch interfaces)
+- Tablet: 768px - 1024px (optimized for tablets with mixed input)
+- Desktop: > 1024px (optimized for large screens with mouse/keyboard)
 
 ### 🎨 Design System
 
