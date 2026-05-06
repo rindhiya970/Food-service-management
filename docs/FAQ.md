@@ -39,7 +39,7 @@ This creates an optimized production build in the `dist` folder with minified co
 Yes! Please read CONTRIBUTING.md for detailed guidelines. We welcome all types of contributions including bug fixes, new features, documentation improvements, and design enhancements. Make sure to follow our code style guidelines and commit message conventions for consistency.
 
 ### What's the browser support?
-Modern browsers (Chrome, Firefox, Safari, Edge) - latest 2 versions. The application uses modern JavaScript features and CSS properties, so older browsers like Internet Explorer are not supported. For the best experience, we recommend using the latest version of Chrome or Firefox.
+Modern browsers (Chrome, Firefox, Safari, Edge) - latest 2 versions recommended. The application uses modern JavaScript features and CSS properties, so older browsers like Internet Explorer are not supported. For the best experience and optimal performance, we recommend using the latest version of Chrome or Firefox.
 
 ## Feature Questions
 
