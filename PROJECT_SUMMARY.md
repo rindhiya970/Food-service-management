@@ -92,9 +92,9 @@ All features implemented, tested, and documented with comprehensive guides.
 - Background: #f9fafb (light background color)
 
 **Typography:**
-- Font Family: Inter (Google Fonts)
-- Headings: 700-800 weight
-- Body: 400-500 weight
+- Font Family: Inter (Google Fonts) for modern look
+- Headings: 700-800 weight for emphasis
+- Body: 400-500 weight for readability
 
 ### 📊 Project Statistics
 
