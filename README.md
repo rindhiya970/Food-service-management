@@ -255,4 +255,4 @@ For any queries, please reach out through the contact form on the website or ope
 
 Built with ❤️ using ReactJS, React Router, and Vite
 
-⭐ Star this repo if you find it helpful!
+⭐ Star this repo if you find it helpful and want to support the project!
