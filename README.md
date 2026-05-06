@@ -94,11 +94,11 @@ geek-food/
 - **Responsive Grid**: Adapts to different screen sizes seamlessly with fluid layouts
 
 ### Foods Page
-- **Visual Gallery**: 18+ food items with high-quality images from Unsplash
-- **Category Filtering**: Filter by cuisine type (Italian, American, Japanese, Thai, Mexican, and more)
-- **Search Functionality**: Search across food names and descriptions in real-time
-- **Food Cards**: Image, name, price, description, and order button with hover effects
-- **Hover Effects**: Interactive animations on cards for better user engagement
+- **Visual Gallery**: 18+ food items with high-quality images from Unsplash CDN
+- **Category Filtering**: Filter by cuisine type (Italian, American, Japanese, Thai, Mexican, and more categories)
+- **Search Functionality**: Search across food names and descriptions in real-time for instant results
+- **Food Cards**: Image, name, price, description, and order button with hover effects and animations
+- **Hover Effects**: Interactive animations on cards for better user engagement and visual appeal
 
 ### Contact Page
 - **Contact Form**: Name, email, phone, subject, and message fields with validation
