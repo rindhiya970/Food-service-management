@@ -108,17 +108,17 @@
 ### 🚀 How to Run
 
 ```bash
-# Install dependencies (first time only)
+# Install dependencies (first time only, may take a few minutes)
 npm install
 
-# Start development server with hot reload
+# Start development server with hot reload and instant updates
 npm run dev
 
-# Build for production deployment
+# Build for production deployment with optimizations
 npm run build
 ```
 
-The development server will start at `http://localhost:5173` with automatic browser refresh on file changes.
+The development server will start at `http://localhost:5173` with automatic browser refresh on file changes for instant feedback.
 
 ### 📝 Assignment Requirements Met
 
