@@ -61,7 +61,7 @@ Yes, modify the CSS custom properties in `src/index.css`. You can change colors,
 Vercel, Netlify, GitHub Pages, Firebase Hosting, or any static hosting service. All of these platforms offer free tiers perfect for this project. Deployment typically takes less than 5 minutes with automatic SSL certificates.
 
 ### Do I need a server?
-No, it's a static site that can be hosted on any CDN or static hosting platform. No backend server, database, or server-side processing required. This makes it fast, secure, and easy to deploy.
+No, it's a static site that can be hosted on any CDN or static hosting platform. No backend server, database, or server-side processing required. This makes it fast, secure, and easy to deploy with minimal maintenance costs.
 
 ### How do I set up custom domain?
 Follow your hosting provider's documentation for custom domain setup. Most providers offer easy DNS configuration through their dashboard. Typically involves updating your domain's nameservers or adding CNAME records.
