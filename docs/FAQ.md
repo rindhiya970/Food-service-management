@@ -6,10 +6,10 @@
 GeekFoods is a modern food discovery web application built with React that helps users explore restaurants, food items, and culinary quotes. It features a clean, intuitive interface with powerful search and filtering capabilities for an enhanced user experience.
 
 ### What technologies are used?
-- **ReactJS** 19.2.5 - UI library
-- **React Router DOM** 6.x - Client-side routing
-- **Vite** 8.0.10 - Build tool and dev server
-- **CSS3** - Styling with custom properties
+- **ReactJS** 19.2.5 - Modern UI library for building interfaces
+- **React Router DOM** 6.x - Client-side routing for navigation
+- **Vite** 8.0.10 - Lightning-fast build tool and dev server
+- **CSS3** - Advanced styling with custom properties and variables
 
 ### Is this project open source?
 Yes! This project is open source under the MIT License. We welcome contributions from the community. Check out our CONTRIBUTING.md file for guidelines on how to contribute.
