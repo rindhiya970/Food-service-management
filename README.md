@@ -247,9 +247,9 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📧 Contact
 
-For any queries, please reach out through the contact form on the website.
+For any queries, please reach out through the contact form on the website or open an issue on GitHub.
 
-**Project Maintainer**: GeekFoods Team
+**Project Maintainer**: GeekFoods Development Team
 
 ---
 
