@@ -13,10 +13,10 @@ Thank you for considering contributing to GeekFoods! This document provides comp
 
 ## Code Style
 
-- Follow the existing code style
-- Use meaningful variable and function names
-- Add comments for complex logic
-- Keep components small and focused
+- Follow the existing code style and conventions
+- Use meaningful variable and function names that describe purpose
+- Add comments for complex logic and algorithms
+- Keep components small and focused on single responsibility
 
 ## Commit Messages
 
