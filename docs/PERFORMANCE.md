@@ -20,7 +20,7 @@
 
 ### Code Splitting
 ```javascript
-// Lazy load pages
+// Lazy load pages for better performance
 const Home = lazy(() => import('./pages/Home'));
 const Quote = lazy(() => import('./pages/Quote'));
 ```
