@@ -26,9 +26,9 @@ const Quote = lazy(() => import('./pages/Quote'));
 ```
 
 ### Image Optimization
-- Implement responsive images
-- Use WebP format
-- Add loading="lazy" attribute
+- Implement responsive images with srcset attribute
+- Use WebP format for better compression and quality
+- Add loading="lazy" attribute for deferred loading
 
 ### Performance Monitoring
 - Add Lighthouse CI for continuous performance tracking
