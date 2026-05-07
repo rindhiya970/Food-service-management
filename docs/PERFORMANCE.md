@@ -48,6 +48,6 @@ const Quote = lazy(() => import('./pages/Quote'));
 
 ## Bundle Size
 
-Current bundle size (approximate):
-- Main bundle: ~150KB (gzipped)
-- CSS: ~20KB (gzipped)
+Current bundle size (approximate values):
+- Main bundle: ~150KB (gzipped) - includes React and core libraries
+- CSS: ~20KB (gzipped) - all styles combined and minified
