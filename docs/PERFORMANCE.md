@@ -3,9 +3,9 @@
 ## Current Optimizations
 
 1. **Vite Build Tool**
-   - Fast HMR (Hot Module Replacement) for development
-   - Optimized production builds with minification
-   - Automatic code splitting for better load times
+   - Fast HMR (Hot Module Replacement) for development speed
+   - Optimized production builds with minification and tree-shaking
+   - Automatic code splitting for better load times and performance
 
 2. **Image Optimization**
    - Using Unsplash CDN for optimized image delivery
