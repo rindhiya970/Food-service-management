@@ -45,4 +45,4 @@ npm audit fix
 
 ## Updates
 
-Security updates will be released as soon as possible after discovery.
+Security updates will be released as soon as possible after discovery and verification.
