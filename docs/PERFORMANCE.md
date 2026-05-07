@@ -36,9 +36,9 @@ const Quote = lazy(() => import('./pages/Quote'));
 - Track bundle size changes over time
 
 ### Caching Strategy
-- Service Worker for offline support
-- Cache API responses
-- Local storage for user preferences
+- Service Worker for offline support and faster loading
+- Cache API responses to reduce network requests
+- Local storage for user preferences and settings
 
 ## Performance Metrics Goals
 
