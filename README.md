@@ -15,8 +15,6 @@ This project creates a dynamic multi-page web application using ReactJS, divided
 - **Body Section Components**: Multiple pages with unique content and interactive functionality
 - **Footer Component**: Links, social media integration, and copyright information
 
-### Live Demo
-Coming soon...
 
 ## Technology Stack
 
