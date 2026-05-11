@@ -65,54 +65,7 @@ geek-food/
 └── vite.config.js
 ```
 
-## Key Features
 
-### Header Component (Navbar)
-- Responsive navigation menu with React Router integration for seamless page transitions
-- Blue play button logo with brand identity and recognition
-- Active link highlighting for better UX and navigation awareness
-- Mobile-friendly hamburger menu with smooth transitions and animations
-- Sticky positioning for better navigation experience while scrolling
-- "Get started" call-to-action button with hover effects
-
-### Home Page
-- **Hero Section**: Eye-catching hero with background image and CTAs for engagement
-- **Content Section**: Two-column layout with image and text content for readability
-- **Testimonial Cards**: Grid layout displaying user testimonials with avatars and ratings
-
-### Quote Page
-- Collection of 12+ inspirational food quotes from renowned chefs and food enthusiasts worldwide
-- Clean card-based layout with elegant typography and spacing
-- Author attribution with proper styling and formatting for credibility
-- Hover effects on cards for better interactivity and visual feedback
-
-### Restaurants Page
-- **Search Functionality**: Real-time search across restaurant names, addresses, and cuisines for quick discovery
-- **Rating Filter**: Filter restaurants by minimum star rating (0-5 stars) for quality assurance
-- **Restaurant Cards**: Display name, rating, address, cuisine type with icons and visual hierarchy
-- **Pagination**: Navigate through multiple pages of results (9 per page) for better performance
-- **Responsive Grid**: Adapts to different screen sizes seamlessly with fluid layouts
-
-### Foods Page
-- **Visual Gallery**: 18+ food items with high-quality images from Unsplash CDN
-- **Category Filtering**: Filter by cuisine type (Italian, American, Japanese, Thai, Mexican, and more categories)
-- **Search Functionality**: Search across food names and descriptions in real-time for instant results
-- **Food Cards**: Image, name, price, description, and order button with hover effects and animations
-- **Hover Effects**: Interactive animations on cards for better user engagement and visual appeal
-
-### Contact Page
-- **Contact Form**: Name, email, phone, subject, and message fields with validation and error handling
-- **Contact Information Cards**: Address, phone, email, working hours displayed in cards with icons
-- **Google Maps Integration**: Embedded map showing location with interactive features and zoom
-- **Form Validation**: Required field validation with user-friendly error messages and feedback
-- **Responsive Layout**: Two-column layout on desktop, stacked on mobile devices for optimal viewing
-
-### Footer Component
-- Teal logo with "logoipsum" branding for visual identity
-- Navigation links to all major sections for easy access
-- 5 social media icons (Facebook, Instagram, Twitter, GitHub, Dribbble) with hover effects and external links
-- Copyright information with dynamic year calculation using JavaScript
-- Hover effects and smooth transitions for better UX and interactivity
 
 ##  Getting Started
 
