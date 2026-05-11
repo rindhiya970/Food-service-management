@@ -8,7 +8,7 @@ A modern, fully responsive web application built with ReactJS that showcases a f
 [![Vite](https://img.shields.io/badge/Vite-8.0.10-purple.svg)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project creates a dynamic multi-page web application using ReactJS, divided into crucial components that work together seamlessly:
 - **Header Component (Navbar)**: Navigation and branding with active link highlighting and mobile menu
@@ -18,7 +18,7 @@ This project creates a dynamic multi-page web application using ReactJS, divided
 ### Live Demo
 Coming soon...
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **ReactJS** - Modern UI library for building interactive user interfaces
 - **React Router DOM** - Client-side routing for seamless navigation
@@ -26,7 +26,7 @@ Coming soon...
 - **CSS3** - Advanced styling with custom properties and responsive design
 - **JSX** - JavaScript XML syntax for intuitive component structure
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 geek-food/
@@ -65,7 +65,7 @@ geek-food/
 └── vite.config.js
 ```
 
-## 🎯 Key Features
+## Key Features
 
 ### Header Component (Navbar)
 - Responsive navigation menu with React Router integration for seamless page transitions
@@ -114,7 +114,7 @@ geek-food/
 - Copyright information with dynamic year calculation using JavaScript
 - Hover effects and smooth transitions for better UX and interactivity
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (v14 or higher recommended for optimal performance)
@@ -140,14 +140,14 @@ npm run dev
 
 4. Open your browser and navigate to `http://localhost:5173` to see the app running with live updates
 
-## 📜 Available Scripts
+## Available Scripts
 
 - `npm run dev` - Start development server with hot module replacement for instant updates
 - `npm run build` - Build for production (output in dist folder with optimizations)
 - `npm run preview` - Preview production build locally before deployment
 - `npm run lint` - Run ESLint to check code quality and style issues
 
-## 🎨 Design Features
+##  Design Features
 
 - **Responsive Design**: Mobile-first approach with breakpoints for all devices and screen sizes
 - **CSS Custom Properties**: Consistent theming with CSS variables for easy customization
@@ -156,7 +156,7 @@ npm run dev
 - **Accessibility**: Semantic HTML and ARIA labels for screen readers and assistive technologies
 - **Performance**: Optimized images and efficient rendering for fast load times and smooth experience
 
-## 🌐 Pages & Routes
+## Pages & Routes
 
 - `/` - Home page with Hero, Content Section, and Customer Testimonials
 - `/quote` - Food quotes page with inspirational quotes from renowned chefs
