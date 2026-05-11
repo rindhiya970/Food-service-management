@@ -91,29 +91,8 @@ npm run dev
 
 4. Open your browser and navigate to `http://localhost:5173` to see the app running with live updates
 
-## Available Scripts
 
-- `npm run dev` - Start development server with hot module replacement for instant updates
-- `npm run build` - Build for production (output in dist folder with optimizations)
-- `npm run preview` - Preview production build locally before deployment
-- `npm run lint` - Run ESLint to check code quality and style issues
 
-##  Design Features
-
-- **Responsive Design**: Mobile-first approach with breakpoints for all devices and screen sizes
-- **CSS Custom Properties**: Consistent theming with CSS variables for easy customization
-- **Modern UI**: Clean, professional design with smooth transitions and animations
-- **Interactive Elements**: Hover effects, active states, and micro-interactions for engagement
-- **Accessibility**: Semantic HTML and ARIA labels for screen readers and assistive technologies
-- **Performance**: Optimized images and efficient rendering for fast load times and smooth experience
-
-## Pages & Routes
-
-- `/` - Home page with Hero, Content Section, and Customer Testimonials
-- `/quote` - Food quotes page with inspirational quotes from renowned chefs
-- `/restaurants` - Restaurant listing with search and filters for easy discovery
-- `/foods` - Food menu with images and categories for browsing
-- `/contact` - Contact form and information with map integration for location
 
 ## 🔧 Customization
 
