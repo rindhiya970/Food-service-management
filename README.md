@@ -124,7 +124,7 @@ Build the project for production:
 npm run build
 ```
 
-The optimized files will be in the `dist` folder, ready for deployment to any static hosting service like:
+The optimized files will be in the `dist` folder, ready for deployment to any static hosting service with CDN support like:
 - **Vercel** - Zero configuration deployment with automatic SSL
 - **Netlify** - Continuous deployment from Git with instant rollbacks
 - **GitHub Pages** - Free hosting for static sites with custom domains
