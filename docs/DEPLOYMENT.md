@@ -10,7 +10,7 @@ This creates an optimized production build in the `dist` folder with minified as
 
 ## Deployment Options
 
-Choose from multiple deployment platforms based on your needs:
+Choose from multiple deployment platforms based on your needs and preferences:
 
 ### Vercel
 
