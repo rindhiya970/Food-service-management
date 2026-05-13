@@ -53,7 +53,7 @@ This document provides detailed information about all reusable components in the
 
 **Location:** `src/components/CardSection.jsx`
 
-**Purpose:** Display testimonial cards in an engaging grid layout
+**Purpose:** Display testimonial cards in an engaging and visually appealing grid layout
 
 **Props:** None (uses internal data array)
 
