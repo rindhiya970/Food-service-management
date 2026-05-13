@@ -9,7 +9,7 @@
 - ContentSection - Feature highlights
 - CardSection - Customer testimonials
 
-**Purpose:** Main landing page that introduces visitors to GeekFoods
+**Purpose:** Main landing page that introduces visitors to GeekFoods and showcases key features
 
 ## Quote Page
 
