@@ -34,8 +34,8 @@ App
 
 ## State Management
 
-- Local component state using `useState`
-- No global state management (Redux/Context) needed for current scope
+- Local component state using `useState` hook for efficient state management
+- No global state management (Redux/Context) needed for current scope and simplicity
 
 ## Routing
 
