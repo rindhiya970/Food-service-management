@@ -21,7 +21,7 @@
 - Author attribution for each quote
 - Responsive grid design
 
-**Data:** 12 inspirational quotes about food and cooking
+**Data:** 12 carefully curated inspirational quotes about food and cooking from renowned chefs and food enthusiasts
 
 ## Restaurants Page
 
