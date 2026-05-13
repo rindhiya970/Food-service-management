@@ -18,11 +18,11 @@ This project creates a dynamic multi-page web application using ReactJS, divided
 
 ## Technology Stack
 
-- **ReactJS** - Modern UI library for building interactive user interfaces
-- **React Router DOM** - Client-side routing for seamless navigation
-- **Vite** - Next-generation build tool and lightning-fast development server
-- **CSS3** - Advanced styling with custom properties and responsive design
-- **JSX** - JavaScript XML syntax for intuitive component structure
+- **ReactJS** - Modern UI library for building interactive and dynamic user interfaces
+- **React Router DOM** - Client-side routing for seamless navigation without page reloads
+- **Vite** - Next-generation build tool and lightning-fast development server with HMR
+- **CSS3** - Advanced styling with custom properties and responsive design techniques
+- **JSX** - JavaScript XML syntax for intuitive component structure and readability
 
 ## Project Structure
 
