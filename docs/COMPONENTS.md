@@ -39,7 +39,7 @@ This document provides detailed information about all reusable components in the
 
 **Location:** `src/components/ContentSection.jsx`
 
-**Purpose:** Two-column layout with image and text for content presentation
+**Purpose:** Two-column layout with image and text for effective content presentation and visual storytelling
 
 **Props:** None (static content component)
 
