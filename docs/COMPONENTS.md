@@ -25,7 +25,7 @@ This document provides detailed information about all reusable components in the
 
 **Location:** `src/components/Hero.jsx`
 
-**Purpose:** Hero section with background image and CTA buttons for landing page impact
+**Purpose:** Hero section with stunning background image and compelling CTA buttons for maximum landing page impact
 
 **Props:** None (presentational component)
 
