@@ -9,9 +9,9 @@ This project currently uses static data arrays defined within component files fo
 ### Potential APIs to Integrate
 
 1. **Restaurant Data API**
-   - Yelp API - Comprehensive restaurant data with reviews
-   - Google Places API - Location-based restaurant information
-   - Zomato API - Restaurant listings and ratings
+   - Yelp API - Comprehensive restaurant data with detailed reviews and ratings
+   - Google Places API - Location-based restaurant information with real-time data
+   - Zomato API - Restaurant listings and ratings with extensive coverage
 
 2. **Food Images API**
    - Unsplash API - High-quality food photography
