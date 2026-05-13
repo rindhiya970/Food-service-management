@@ -50,7 +50,7 @@
 - Search functionality to find specific foods
 - Food cards displaying prices and descriptions
 
-**Data:** 18 food items across multiple categories
+**Data:** 18 delicious food items across multiple international cuisine categories
 
 **State:**
 - selectedCategory - Currently active category filter
