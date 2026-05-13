@@ -42,9 +42,9 @@ const Quote = lazy(() => import('./pages/Quote'));
 
 ## Performance Metrics Goals
 
-- First Contentful Paint: < 1.5s for fast initial render
-- Time to Interactive: < 3.5s for quick user interaction
-- Lighthouse Score: > 90 for overall performance quality
+- First Contentful Paint: < 1.5s for fast initial render and user engagement
+- Time to Interactive: < 3.5s for quick user interaction and responsiveness
+- Lighthouse Score: > 90 for overall performance quality and best practices
 
 ## Bundle Size
 
