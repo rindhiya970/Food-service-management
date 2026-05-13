@@ -14,11 +14,11 @@ If you discover a security vulnerability in this project, please email security@
 
 ### For Contributors
 
-1. Never commit sensitive data (API keys, passwords, tokens)
-2. Use environment variables for all configuration settings
-3. Keep dependencies updated to latest secure versions
-4. Follow secure coding practices and OWASP guidelines
-5. Validate all user inputs to prevent injection attacks
+1. Never commit sensitive data (API keys, passwords, tokens) to version control
+2. Use environment variables for all configuration settings and secrets
+3. Keep dependencies updated to latest secure versions regularly
+4. Follow secure coding practices and OWASP guidelines consistently
+5. Validate all user inputs to prevent injection attacks and security vulnerabilities
 
 ### For Users
 
