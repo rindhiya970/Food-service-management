@@ -2,7 +2,7 @@
 
 > A modern, fully responsive food discovery platform built with React
 
-A modern, fully responsive web application built with ReactJS that showcases a food discovery platform. This project demonstrates the implementation of reusable React components, routing, and interactive features following best practices.
+A modern, fully responsive web application built with ReactJS that showcases a comprehensive food discovery platform. This project demonstrates the implementation of reusable React components, routing, and interactive features following industry best practices.
 
 [![React](https://img.shields.io/badge/React-19.2.5-blue.svg)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-8.0.10-purple.svg)](https://vitejs.dev/)
