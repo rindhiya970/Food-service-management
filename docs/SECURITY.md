@@ -30,10 +30,10 @@ If you discover a security vulnerability in this project, please email security@
 
 ## Security Features
 
-- Input validation on forms to prevent malicious data
-- XSS protection (React default escaping mechanism)
-- CSRF protection (to be implemented in future versions)
-- Secure headers (configure on deployment platform)
+- Input validation on forms to prevent malicious data and security breaches
+- XSS protection (React default escaping mechanism for safe rendering)
+- CSRF protection (to be implemented in future versions for enhanced security)
+- Secure headers (configure on deployment platform for production safety)
 
 ## Dependency Security
 
