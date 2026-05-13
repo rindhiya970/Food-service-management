@@ -39,9 +39,9 @@ App
 
 ## Routing
 
-- React Router DOM v6
-- Client-side routing
-- NavLink for active link highlighting
+- React Router DOM v6 for modern routing capabilities
+- Client-side routing for seamless navigation experience
+- NavLink for active link highlighting and visual feedback
 
 ## Styling Approach
 
