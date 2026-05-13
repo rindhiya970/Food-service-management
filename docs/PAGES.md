@@ -33,7 +33,7 @@
 - Pagination system (9 restaurants per page)
 - Restaurant cards with detailed information
 
-**Data:** 18 restaurant listings with ratings and addresses
+**Data:** 18 diverse restaurant listings with comprehensive ratings, addresses, and cuisine types
 
 **State:**
 - searchTerm - User input for restaurant search
