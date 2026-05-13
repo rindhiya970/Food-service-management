@@ -3,9 +3,9 @@
 ## Current Accessibility Features
 
 1. **Semantic HTML**
-   - Proper heading hierarchy (h1, h2, h3) for screen readers
-   - Semantic elements (nav, main, footer, section) for structure
-   - Form labels associated with inputs for accessibility
+   - Proper heading hierarchy (h1, h2, h3) for screen readers and document structure
+   - Semantic elements (nav, main, footer, section) for meaningful structure
+   - Form labels associated with inputs for accessibility and usability
 
 2. **ARIA Labels**
    - Social media icons have descriptive aria-label attributes
