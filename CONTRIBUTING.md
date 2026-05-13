@@ -1,6 +1,6 @@
 # Contributing to GeekFoods
 
-Thank you for considering contributing to GeekFoods! This document provides comprehensive guidelines for contributing to the project and ensuring code quality.
+Thank you for considering contributing to GeekFoods! This document provides comprehensive guidelines for contributing to the project and ensuring high code quality standards.
 
 ## How to Contribute
 
