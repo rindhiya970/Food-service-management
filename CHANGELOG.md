@@ -13,11 +13,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Hero section with background image and call-to-action buttons for engagement
 - Content section with two-column layout for better content presentation and readability
 - Testimonial cards section with user reviews and star ratings for social proof
-- Footer with social media links and dynamic copyright year calculation
-- Quote page with food quotes from renowned chefs and personalities
-- Restaurants page with search and filter capabilities for easy discovery
-- Foods page with image gallery and category filtering system
-- Contact page with form validation and Google Maps integration
+- Footer with social media links and dynamic copyright year calculation for branding
+- Quote page with food quotes from renowned chefs and personalities worldwide
+- Restaurants page with search and filter capabilities for easy discovery and navigation
+- Foods page with image gallery and category filtering system for browsing
+- Contact page with form validation and Google Maps integration for communication
 - React Router for seamless navigation between pages
 - Responsive design for all pages and components across devices
 - Search functionality across multiple pages for better UX
