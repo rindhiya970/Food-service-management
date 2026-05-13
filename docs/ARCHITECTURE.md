@@ -2,7 +2,7 @@
 
 ## Overview
 
-GeekFoods is built using a component-based architecture with React and React Router.
+GeekFoods is built using a modern component-based architecture with React and React Router for optimal performance.
 
 ## Directory Structure
 
