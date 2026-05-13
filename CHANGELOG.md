@@ -18,11 +18,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Restaurants page with search and filter capabilities for easy discovery and navigation
 - Foods page with image gallery and category filtering system for browsing
 - Contact page with form validation and Google Maps integration for communication
-- React Router for seamless navigation between pages
-- Responsive design for all pages and components across devices
-- Search functionality across multiple pages for better UX
-- Filter functionality for better user experience and data discovery
-- Pagination system for large datasets and improved performance
+- React Router for seamless navigation between pages without page reloads
+- Responsive design for all pages and components across devices and screen sizes
+- Search functionality across multiple pages for better UX and content discovery
+- Filter functionality for better user experience and data discovery capabilities
+- Pagination system for large datasets and improved performance optimization
 
 ### Features
 - Mobile-friendly navigation with hamburger menu and smooth transitions
