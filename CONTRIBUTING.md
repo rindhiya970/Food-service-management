@@ -20,9 +20,9 @@ Thank you for considering contributing to GeekFoods! This document provides comp
 
 ## Commit Messages
 
-- Use clear and descriptive commit messages that explain the change
-- Start with a verb (Add, Update, Fix, Remove, Refactor, etc.)
-- Keep the first line under 50 characters for better readability
+- Use clear and descriptive commit messages that explain the change and its purpose
+- Start with a verb (Add, Update, Fix, Remove, Refactor, etc.) for consistency
+- Keep the first line under 50 characters for better readability in git logs
 
 ## Pull Request Process
 
