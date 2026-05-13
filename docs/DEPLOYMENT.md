@@ -6,7 +6,7 @@
 npm run build
 ```
 
-This creates an optimized production build in the `dist` folder with minified assets and code splitting.
+This creates an optimized production build in the `dist` folder with minified assets, code splitting, and performance optimizations.
 
 ## Deployment Options
 
