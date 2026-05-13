@@ -69,7 +69,7 @@ This document provides detailed information about all reusable components in the
 
 **Location:** `src/components/Footer.jsx`
 
-**Purpose:** Footer section with links and social media integration
+**Purpose:** Footer section with comprehensive links and social media integration for enhanced user engagement
 
 **Props:** None (presentational component)
 
