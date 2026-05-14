@@ -15,11 +15,11 @@
 
 ## Version 1.1 (Planned) - Q2 2024
 
-- [ ] Add comprehensive unit tests with Jest and React Testing Library
-- [ ] Implement lazy loading for images to improve performance
-- [ ] Add loading states and skeleton screens for better UX
-- [ ] Improve accessibility (WCAG 2.1 AA compliance)
-- [ ] Add dark mode toggle with theme persistence
+- [ ] Add comprehensive unit tests with Jest and React Testing Library for reliability
+- [ ] Implement lazy loading for images to improve performance and load times
+- [ ] Add loading states and skeleton screens for better UX and perceived performance
+- [ ] Improve accessibility (WCAG 2.1 AA compliance) for inclusive user experience
+- [ ] Add dark mode toggle with theme persistence for user preference
 - [ ] Optimize performance and reduce bundle size
 - [ ] Add error boundaries for graceful error handling
 - [ ] Implement service worker for PWA capabilities
