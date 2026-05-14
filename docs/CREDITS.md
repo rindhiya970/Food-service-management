@@ -14,14 +14,14 @@
 ## Resources
 
 ### Images
-- Unsplash - Free high-quality images from talented photographers
-- Food photography contributors worldwide
+- Unsplash - Free high-quality images from talented photographers worldwide
+- Food photography contributors worldwide sharing their amazing work
 
 ### Fonts
-- Google Fonts - Inter font family
+- Google Fonts - Inter font family for modern and clean typography
 
 ### Icons
-- SVG icons - Custom designed and open source community contributions
+- SVG icons - Custom designed and open source community contributions with care
 
 ## Inspiration
 
