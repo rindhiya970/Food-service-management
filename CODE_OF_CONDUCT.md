@@ -8,10 +8,10 @@ We pledge to make participation in our project a harassment-free experience for 
 
 Examples of behavior that contributes to a positive environment:
 
-- Using welcoming and inclusive language in all communications
-- Being respectful of differing viewpoints and experiences
-- Gracefully accepting constructive criticism and feedback
-- Focusing on what is best for the community and project success
+- Using welcoming and inclusive language in all communications and interactions
+- Being respectful of differing viewpoints and experiences from diverse backgrounds
+- Gracefully accepting constructive criticism and feedback with open mind
+- Focusing on what is best for the community and project success always
 
 Examples of unacceptable behavior:
 
