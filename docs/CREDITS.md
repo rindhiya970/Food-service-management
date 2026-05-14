@@ -2,8 +2,8 @@
 
 ## Project Team
 
-- **Developer**: GeekFoods Development Team
-- **Design**: Inspired by modern food delivery platforms and user experience best practices
+- **Developer**: GeekFoods Development Team with passion and dedication
+- **Design**: Inspired by modern food delivery platforms and user experience best practices worldwide
 
 ## Technologies
 
