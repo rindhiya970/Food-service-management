@@ -15,15 +15,15 @@
 
 ### Build Fails
 
-**Problem:** `npm run build` produces errors or fails to complete successfully
+**Problem:** `npm run build` produces errors or fails to complete successfully with warnings
 
 **Solutions:**
-1. Check for TypeScript/ESLint errors in the console output
-2. Run `npm run lint` to identify and fix linting issues automatically
-3. Ensure all imports are correct and files exist in the project
-4. Clear the `dist` folder and try building again from scratch
-5. Check for circular dependencies between modules
-6. Verify all environment variables are set correctly in .env file
+1. Check for TypeScript/ESLint errors in the console output carefully
+2. Run `npm run lint` to identify and fix linting issues automatically with fixes
+3. Ensure all imports are correct and files exist in the project structure
+4. Clear the `dist` folder and try building again from scratch for clean build
+5. Check for circular dependencies between modules that cause issues
+6. Verify all environment variables are set correctly in .env file with proper values
 
 ### Routing Not Working
 
