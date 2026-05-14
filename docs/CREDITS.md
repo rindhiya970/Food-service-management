@@ -7,9 +7,9 @@
 
 ## Technologies
 
-- **React**: Facebook Open Source - UI library for building interfaces
-- **Vite**: Evan You and the Vite team - Next-generation build tool
-- **React Router**: Remix Software - Declarative routing for React
+- **React**: Facebook Open Source - Powerful UI library for building interactive interfaces
+- **Vite**: Evan You and the Vite team - Next-generation build tool with lightning speed
+- **React Router**: Remix Software - Declarative routing for React applications
 
 ## Resources
 
