@@ -39,4 +39,4 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ---
 
-Thank you to everyone who contributed to making this project possible!
+Thank you to everyone who contributed to making this project possible and successful!
