@@ -25,7 +25,7 @@
 
 ## Inspiration
 
-This project was inspired by popular food delivery and restaurant discovery platforms.
+This project was inspired by popular food delivery and restaurant discovery platforms worldwide that prioritize user experience.
 
 ## Special Thanks
 
