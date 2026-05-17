@@ -120,7 +120,7 @@ npm run dev
 npm run build
 ```
 
-The development server will start at `http://localhost:5173` with automatic browser refresh on file changes for instant feedback.
+The development server will start at `http://localhost:5173` with automatic browser refresh on file changes for instant feedback and rapid development workflow.
 
 ### 📝 Assignment Requirements Met
 
