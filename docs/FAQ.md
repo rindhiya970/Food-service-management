@@ -58,7 +58,7 @@ Yes, modify the CSS custom properties in `src/index.css`. You can change colors,
 ## Deployment Questions
 
 ### Where can I deploy this?
-Vercel, Netlify, GitHub Pages, Firebase Hosting, or any static hosting service. All of these platforms offer free tiers perfect for this project. Deployment typically takes less than 5 minutes with automatic SSL certificates.
+Vercel, Netlify, GitHub Pages, Firebase Hosting, or any static hosting service with CDN support. All of these platforms offer free tiers perfect for this project with excellent performance. Deployment typically takes less than 5 minutes with automatic SSL certificates and global distribution.
 
 ### Do I need a server?
 No, it's a static site that can be hosted on any CDN or static hosting platform. No backend server, database, or server-side processing required. This makes it fast, secure, and easy to deploy with minimal maintenance costs.
