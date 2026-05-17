@@ -27,7 +27,7 @@ npm install
 # Start the development server with hot reload
 npm run dev
 ```
-The app will be available at `http://localhost:5173` with hot module replacement enabled for instant updates.
+The app will be available at `http://localhost:5173` with hot module replacement enabled for instant updates and seamless development experience.
 
 ### How do I build for production?
 ```bash
